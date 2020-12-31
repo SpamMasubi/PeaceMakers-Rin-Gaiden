@@ -1,0 +1,4928 @@
+fileFormatVersion: 2
+guid: e751a3ce03f122d43bb4eed168781f6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8543830427510535641
+    second: Vehicles Destroyed 1_0
+  - first:
+      213: 1969290750662363024
+    second: Vehicles Destroyed 1_1
+  - first:
+      213: -5744554727199771661
+    second: Vehicles Destroyed 1_2
+  - first:
+      213: -2510472894509229282
+    second: Vehicles Destroyed 1_3
+  - first:
+      213: 895196235783097260
+    second: Vehicles Destroyed 1_4
+  - first:
+      213: -6693566025846809228
+    second: Vehicles Destroyed 1_5
+  - first:
+      213: -6132489481035481370
+    second: Vehicles Destroyed 1_6
+  - first:
+      213: -5706749050063642110
+    second: Vehicles Destroyed 1_7
+  - first:
+      213: 7647411384272982974
+    second: Vehicles Destroyed 1_8
+  - first:
+      213: -6507810410721154205
+    second: Vehicles Destroyed 1_9
+  - first:
+      213: -7642632981421852176
+    second: Vehicles Destroyed 1_10
+  - first:
+      213: -4955746983327589026
+    second: Vehicles Destroyed 1_11
+  - first:
+      213: -5369299153558385243
+    second: Vehicles Destroyed 1_12
+  - first:
+      213: 2111528344934109303
+    second: Vehicles Destroyed 1_13
+  - first:
+      213: 5035884758703498277
+    second: Vehicles Destroyed 1_14
+  - first:
+      213: 3694473836075082936
+    second: Vehicles Destroyed 1_15
+  - first:
+      213: -6464694483940883884
+    second: Vehicles Destroyed 1_16
+  - first:
+      213: -3083525421597933297
+    second: Vehicles Destroyed 1_17
+  - first:
+      213: -3597931741654706041
+    second: Vehicles Destroyed 1_18
+  - first:
+      213: -5112825457251704334
+    second: Vehicles Destroyed 1_19
+  - first:
+      213: -846161016122589038
+    second: Vehicles Destroyed 1_20
+  - first:
+      213: -961055686589646519
+    second: Vehicles Destroyed 1_21
+  - first:
+      213: 4156827762928169878
+    second: Vehicles Destroyed 1_22
+  - first:
+      213: 7017385527927978638
+    second: Vehicles Destroyed 1_23
+  - first:
+      213: -2278000611956463875
+    second: Vehicles Destroyed 1_24
+  - first:
+      213: 2486410211605433811
+    second: Vehicles Destroyed 1_25
+  - first:
+      213: 4004094825983083991
+    second: Vehicles Destroyed 1_26
+  - first:
+      213: -6001112138132087409
+    second: Vehicles Destroyed 1_27
+  - first:
+      213: 7946787222665327817
+    second: Vehicles Destroyed 1_28
+  - first:
+      213: 6079652382846708138
+    second: Vehicles Destroyed 1_29
+  - first:
+      213: -7149579731017541956
+    second: Vehicles Destroyed 1_30
+  - first:
+      213: 7585243225899337002
+    second: Vehicles Destroyed 1_31
+  - first:
+      213: 3096572824139285045
+    second: Vehicles Destroyed 1_32
+  - first:
+      213: -8362381613654198147
+    second: Vehicles Destroyed 1_33
+  - first:
+      213: -8894566558436499293
+    second: Vehicles Destroyed 1_34
+  - first:
+      213: -2002767563819639512
+    second: Vehicles Destroyed 1_35
+  - first:
+      213: 8935579800304239598
+    second: Vehicles Destroyed 1_36
+  - first:
+      213: -8026269542179490455
+    second: Vehicles Destroyed 1_37
+  - first:
+      213: 2985667288194493854
+    second: Vehicles Destroyed 1_38
+  - first:
+      213: -2836724128612475634
+    second: Vehicles Destroyed 1_39
+  - first:
+      213: 5214638325990221467
+    second: Vehicles Destroyed 1_40
+  - first:
+      213: -8668438848648559701
+    second: Vehicles Destroyed 1_41
+  - first:
+      213: -8813598083575441120
+    second: Vehicles Destroyed 1_42
+  - first:
+      213: -247575416402722762
+    second: Vehicles Destroyed 1_43
+  - first:
+      213: 5839533241801934687
+    second: Vehicles Destroyed 1_44
+  - first:
+      213: -423397338982924969
+    second: Vehicles Destroyed 1_45
+  - first:
+      213: 4996557280160492728
+    second: Vehicles Destroyed 1_46
+  - first:
+      213: -6036683297808604531
+    second: Vehicles Destroyed 1_47
+  - first:
+      213: -4611498021993741755
+    second: Vehicles Destroyed 1_48
+  - first:
+      213: 7969601907308043757
+    second: Vehicles Destroyed 1_49
+  - first:
+      213: -4399028321655492578
+    second: Vehicles Destroyed 1_50
+  - first:
+      213: -3986371349558275695
+    second: Vehicles Destroyed 1_51
+  - first:
+      213: -5406215464767539761
+    second: Vehicles Destroyed 1_52
+  - first:
+      213: -4326762533094424006
+    second: Vehicles Destroyed 1_53
+  - first:
+      213: 3876082676366484211
+    second: Vehicles Destroyed 1_54
+  - first:
+      213: -5819471613827922648
+    second: Vehicles Destroyed 1_55
+  - first:
+      213: -8248393804420464112
+    second: Vehicles Destroyed 1_56
+  - first:
+      213: -7759996003395346939
+    second: Vehicles Destroyed 1_57
+  - first:
+      213: -6879191188482470021
+    second: Vehicles Destroyed 1_58
+  - first:
+      213: 5516891205884985710
+    second: Vehicles Destroyed 1_59
+  - first:
+      213: 3307982122514191432
+    second: Vehicles Destroyed 1_60
+  - first:
+      213: -6590382054566604039
+    second: Vehicles Destroyed 1_61
+  - first:
+      213: -3186754751269300568
+    second: Vehicles Destroyed 1_62
+  - first:
+      213: 2180217716395984595
+    second: Vehicles Destroyed 1_63
+  - first:
+      213: -6828431006017815409
+    second: Vehicles Destroyed 1_64
+  - first:
+      213: -7575469356890745823
+    second: Vehicles Destroyed 1_65
+  - first:
+      213: 6608945903629505374
+    second: Vehicles Destroyed 1_66
+  - first:
+      213: -1530141557014035004
+    second: Vehicles Destroyed 1_67
+  - first:
+      213: -6943037091917971285
+    second: Vehicles Destroyed 1_68
+  - first:
+      213: 2134620424077120181
+    second: Vehicles Destroyed 1_69
+  - first:
+      213: 5368321781746552347
+    second: Vehicles Destroyed 1_70
+  - first:
+      213: -3070730200962925288
+    second: Vehicles Destroyed 1_71
+  - first:
+      213: -6703034929466532403
+    second: Vehicles Destroyed 1_72
+  - first:
+      213: 5993549513801792866
+    second: Vehicles Destroyed 1_73
+  - first:
+      213: 5901899209236271713
+    second: Vehicles Destroyed 1_74
+  - first:
+      213: -8922927309308410144
+    second: Vehicles Destroyed 1_75
+  - first:
+      213: 9136698690268767591
+    second: Vehicles Destroyed 1_76
+  - first:
+      213: 4244358127977289457
+    second: Vehicles Destroyed 1_77
+  - first:
+      213: -5613902017520335196
+    second: Vehicles Destroyed 1_78
+  - first:
+      213: -2455235177058415044
+    second: Vehicles Destroyed 1_79
+  - first:
+      213: 8733445773243588666
+    second: Vehicles Destroyed 1_80
+  - first:
+      213: -5498286841433387986
+    second: Vehicles Destroyed 1_81
+  - first:
+      213: 9082488061207367657
+    second: Vehicles Destroyed 1_82
+  - first:
+      213: -2880063227256078978
+    second: Vehicles Destroyed 1_83
+  - first:
+      213: -2633194377270431408
+    second: Vehicles Destroyed 1_84
+  - first:
+      213: 4508707983926549617
+    second: Vehicles Destroyed 1_85
+  - first:
+      213: 825983303384106890
+    second: Vehicles Destroyed 1_86
+  - first:
+      213: -6889533044598092089
+    second: Vehicles Destroyed 1_87
+  - first:
+      213: -1173679729839086260
+    second: Vehicles Destroyed 1_88
+  - first:
+      213: 4477869143256646047
+    second: Vehicles Destroyed 1_89
+  - first:
+      213: -227622594808836264
+    second: Vehicles Destroyed 1_90
+  - first:
+      213: -1901471796655696926
+    second: Vehicles Destroyed 1_91
+  - first:
+      213: 26438353632325576
+    second: Vehicles Destroyed 1_92
+  - first:
+      213: -6179466816535244938
+    second: Vehicles Destroyed 1_93
+  - first:
+      213: -8416110576575026769
+    second: Vehicles Destroyed 1_94
+  - first:
+      213: 369404437742683867
+    second: Vehicles Destroyed 1_95
+  - first:
+      213: -2985607539537144845
+    second: Vehicles Destroyed 1_96
+  - first:
+      213: 2323292721185992242
+    second: Vehicles Destroyed 1_97
+  - first:
+      213: -7498385330113406140
+    second: Vehicles Destroyed 1_98
+  - first:
+      213: -2776010351156841229
+    second: Vehicles Destroyed 1_99
+  - first:
+      213: -6338957072603740559
+    second: Vehicles Destroyed 1_100
+  - first:
+      213: 1354760067411456852
+    second: Vehicles Destroyed 1_101
+  - first:
+      213: 5360847672786558350
+    second: Vehicles Destroyed 1_102
+  - first:
+      213: -3150304327707313730
+    second: Vehicles Destroyed 1_103
+  - first:
+      213: 5914540102683364893
+    second: Vehicles Destroyed 1_104
+  - first:
+      213: 2500960934757312774
+    second: Vehicles Destroyed 1_105
+  - first:
+      213: -3209769046791558590
+    second: Vehicles Destroyed 1_106
+  - first:
+      213: -2166963069047275887
+    second: Vehicles Destroyed 1_107
+  - first:
+      213: -9058533936233573819
+    second: Vehicles Destroyed 1_108
+  - first:
+      213: 7650238416890649564
+    second: Vehicles Destroyed 1_109
+  - first:
+      213: -959702891244653546
+    second: Vehicles Destroyed 1_110
+  - first:
+      213: -4607232150940207884
+    second: Vehicles Destroyed 1_111
+  - first:
+      213: -3985376833360450643
+    second: Vehicles Destroyed 1_112
+  - first:
+      213: 6663689705305838084
+    second: Vehicles Destroyed 1_113
+  - first:
+      213: -6915074077124041938
+    second: Vehicles Destroyed 1_114
+  - first:
+      213: -5588408072026152759
+    second: Vehicles Destroyed 1_115
+  - first:
+      213: -7718549151220196694
+    second: Vehicles Destroyed 1_116
+  - first:
+      213: -8492315828695733492
+    second: Vehicles Destroyed 1_117
+  - first:
+      213: -4344625458038505737
+    second: Vehicles Destroyed 1_118
+  - first:
+      213: 191374603248360355
+    second: Vehicles Destroyed 1_119
+  - first:
+      213: 8733725556332772827
+    second: Vehicles Destroyed 1_120
+  - first:
+      213: 6479498890109845532
+    second: Vehicles Destroyed 1_121
+  - first:
+      213: -650863578413125594
+    second: Vehicles Destroyed 1_122
+  - first:
+      213: -603264006037485091
+    second: Vehicles Destroyed 1_123
+  - first:
+      213: 3079847073154615759
+    second: Vehicles Destroyed 1_124
+  - first:
+      213: -5374628555414115001
+    second: Vehicles Destroyed 1_125
+  - first:
+      213: 6406671935175139609
+    second: Vehicles Destroyed 1_126
+  - first:
+      213: 6868872927557330035
+    second: Vehicles Destroyed 1_127
+  - first:
+      213: 788572445102732194
+    second: Vehicles Destroyed 1_128
+  - first:
+      213: 2303361010572255080
+    second: Vehicles Destroyed 1_129
+  - first:
+      213: -3665111259488752915
+    second: Vehicles Destroyed 1_130
+  - first:
+      213: -4161216134745462074
+    second: Vehicles Destroyed 1_131
+  - first:
+      213: 2695236563622246862
+    second: Vehicles Destroyed 1_132
+  - first:
+      213: -5413396507878040713
+    second: Vehicles Destroyed 1_133
+  - first:
+      213: 1511259827596847900
+    second: Vehicles Destroyed 1_134
+  - first:
+      213: -2337673547883758363
+    second: Vehicles Destroyed 1_135
+  - first:
+      213: -3337342102643890958
+    second: Vehicles Destroyed 1_136
+  - first:
+      213: -7938516743187447213
+    second: Vehicles Destroyed 1_137
+  - first:
+      213: -2924783619933598431
+    second: Vehicles Destroyed 1_138
+  - first:
+      213: -7616985604322527457
+    second: Vehicles Destroyed 1_139
+  - first:
+      213: 8677818143829020188
+    second: Vehicles Destroyed 1_140
+  - first:
+      213: -2201530268718525306
+    second: Vehicles Destroyed 1_141
+  - first:
+      213: 2022038083511305085
+    second: Vehicles Destroyed 1_142
+  - first:
+      213: 7763751859008444437
+    second: Vehicles Destroyed 1_143
+  - first:
+      213: 3471358379410855502
+    second: Vehicles Destroyed 1_144
+  - first:
+      213: -5635431045680026882
+    second: Vehicles Destroyed 1_145
+  - first:
+      213: -1846717039652058268
+    second: Vehicles Destroyed 1_146
+  - first:
+      213: 6123114783827735584
+    second: Vehicles Destroyed 1_147
+  - first:
+      213: 2429167644203235389
+    second: Vehicles Destroyed 1_148
+  - first:
+      213: 54869796629227119
+    second: Vehicles Destroyed 1_149
+  - first:
+      213: 5919497576899099896
+    second: Vehicles Destroyed 1_150
+  - first:
+      213: -672413715128428038
+    second: Vehicles Destroyed 1_151
+  - first:
+      213: 4177751163981942882
+    second: Vehicles Destroyed 1_152
+  - first:
+      213: -6205043920975864204
+    second: Vehicles Destroyed 1_153
+  - first:
+      213: -2564730229746223837
+    second: Vehicles Destroyed 1_154
+  - first:
+      213: -5308603762494731296
+    second: Vehicles Destroyed 1_155
+  - first:
+      213: 7174922106058812070
+    second: Vehicles Destroyed 1_156
+  - first:
+      213: -9087759241693817400
+    second: Vehicles Destroyed 1_157
+  - first:
+      213: -8375753204527563092
+    second: Vehicles Destroyed 1_158
+  - first:
+      213: 3902232609337836991
+    second: Vehicles Destroyed 1_159
+  - first:
+      213: -4866926374779689077
+    second: Vehicles Destroyed 1_160
+  - first:
+      213: -7528100337140940778
+    second: Vehicles Destroyed 1_161
+  - first:
+      213: 7362466096002424349
+    second: Vehicles Destroyed 1_162
+  - first:
+      213: -4864436084821251613
+    second: Vehicles Destroyed 1_163
+  - first:
+      213: 4268912588129602488
+    second: Vehicles Destroyed 1_164
+  - first:
+      213: 1149365155326147567
+    second: Vehicles Destroyed 1_165
+  - first:
+      213: 7863219732075221995
+    second: Vehicles Destroyed 1_166
+  - first:
+      213: 2501769318896649981
+    second: Vehicles Destroyed 1_167
+  - first:
+      213: 6965148646488700589
+    second: Vehicles Destroyed 1_168
+  - first:
+      213: 8405941243878071709
+    second: Vehicles Destroyed 1_169
+  - first:
+      213: -3701028387233386211
+    second: Vehicles Destroyed 1_170
+  - first:
+      213: -4618305386172561861
+    second: Vehicles Destroyed 1_171
+  - first:
+      213: 8305455395502101465
+    second: Vehicles Destroyed 1_172
+  - first:
+      213: -7379675734458293787
+    second: Vehicles Destroyed 1_173
+  - first:
+      213: -6244727187687711885
+    second: Vehicles Destroyed 1_174
+  - first:
+      213: 5465456161766743716
+    second: Vehicles Destroyed 1_175
+  - first:
+      213: -7482475598374319472
+    second: Vehicles Destroyed 1_176
+  - first:
+      213: 4867364398050509564
+    second: Vehicles Destroyed 1_177
+  - first:
+      213: -4732005441469001598
+    second: Vehicles Destroyed 1_178
+  - first:
+      213: -3633656356663122595
+    second: Vehicles Destroyed 1_179
+  - first:
+      213: 2020480421553426274
+    second: Vehicles Destroyed 1_180
+  - first:
+      213: 8220663398323089447
+    second: Vehicles Destroyed 1_181
+  - first:
+      213: 3160864261512431646
+    second: Vehicles Destroyed 1_182
+  - first:
+      213: -1824446550779495154
+    second: Vehicles Destroyed 1_183
+  - first:
+      213: 7045220462655113203
+    second: Vehicles Destroyed 1_184
+  - first:
+      213: 3392324840958288749
+    second: Vehicles Destroyed 1_185
+  - first:
+      213: -5113130968081887005
+    second: Vehicles Destroyed 1_186
+  - first:
+      213: 2452005184865780523
+    second: Vehicles Destroyed 1_187
+  - first:
+      213: -5918449331935077475
+    second: Vehicles Destroyed 1_188
+  - first:
+      213: -3111780760444331231
+    second: Vehicles Destroyed 1_189
+  - first:
+      213: -8731776993399919130
+    second: Vehicles Destroyed 1_190
+  - first:
+      213: 7094334199901664062
+    second: Vehicles Destroyed 1_191
+  - first:
+      213: -217915563057698193
+    second: Vehicles Destroyed 1_192
+  - first:
+      213: -4940384448984470505
+    second: Vehicles Destroyed 1_193
+  - first:
+      213: 507292830659374767
+    second: Vehicles Destroyed 1_194
+  - first:
+      213: -2809863273365009042
+    second: Vehicles Destroyed 1_195
+  - first:
+      213: 2704773968865530786
+    second: Vehicles Destroyed 1_196
+  - first:
+      213: -88550196512239676
+    second: Vehicles Destroyed 1_197
+  - first:
+      213: -8104239485988720955
+    second: Vehicles Destroyed 1_198
+  - first:
+      213: -4926829205355996206
+    second: Vehicles Destroyed 1_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 669
+        width: 152
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d570f4b188c19670800000000000000
+      internalID: 8543830427510535641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 671
+        width: 152
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09741b40183545b10800000000000000
+      internalID: 1969290750662363024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 674
+        width: 152
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3777c59ed3740b0800000000000000
+      internalID: -5744554727199771661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_3
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 669
+        width: 152
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bd7881432092dd0800000000000000
+      internalID: -2510472894509229282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_4
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 662
+        width: 152
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab4e16cb306c6c00800000000000000
+      internalID: 895196235783097260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 579
+        width: 149
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d17ccd92dab13a0800000000000000
+      internalID: -6693566025846809228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 563
+        width: 137
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee7f0eee4505eaa0800000000000000
+      internalID: -6132489481035481370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 563
+        width: 149
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202a8a089fd8dc0b0800000000000000
+      internalID: -5706749050063642110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_8
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 545
+        width: 137
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb39ed2e220112a60800000000000000
+      internalID: 7647411384272982974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_9
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 606
+        width: 110
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b606b49ec9fa5a0800000000000000
+      internalID: -6507810410721154205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_10
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 561
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f97aa9bbc9efe590800000000000000
+      internalID: -7642632981421852176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 561
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d9b061066a93bb0800000000000000
+      internalID: -4955746983327589026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 562
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adc85b1eda6c75b0800000000000000
+      internalID: -5369299153558385243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_13
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 562
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77057f4a7d7ad4d10800000000000000
+      internalID: 2111528344934109303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 562
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524635cb18e03e540800000000000000
+      internalID: 5035884758703498277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_15
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 561
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4ea373168654330800000000000000
+      internalID: 3694473836075082936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 561
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452c6474e9ac846a0800000000000000
+      internalID: -6464694483940883884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 530
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c4cd57fd1535d0800000000000000
+      internalID: -3083525421597933297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 553
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7889194c424911ec0800000000000000
+      internalID: -3597931741654706041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 531
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f120f5e5589b09b0800000000000000
+      internalID: -5112825457251704334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 530
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290ca3bf905d144f0800000000000000
+      internalID: -846161016122589038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 530
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9497477e1f4a9a2f0800000000000000
+      internalID: -961055686589646519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 524
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b0d993d400b930800000000000000
+      internalID: 4156827762928169878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 531
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a3d1c35f2c26160800000000000000
+      internalID: 7017385527927978638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 530
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df66636438ae260e0800000000000000
+      internalID: -2278000611956463875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 530
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd45a4f9e0818220800000000000000
+      internalID: 2486410211605433811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 530
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d583b59707619730800000000000000
+      internalID: 4004094825983083991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 531
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d1a5d3e44c7bca0800000000000000
+      internalID: -6001112138132087409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 523
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4749800e8a84e60800000000000000
+      internalID: 7946787222665327817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 489
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa96f6d71a34f5450800000000000000
+      internalID: 6079652382846708138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 488
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6dd5f5d1797cc90800000000000000
+      internalID: -7149579731017541956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 488
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a250bae8682344960800000000000000
+      internalID: 7585243225899337002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 488
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53243f3c39c39fa20800000000000000
+      internalID: 3096572824139285045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 488
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7832e96a3ad2fb80800000000000000
+      internalID: -8362381613654198147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 488
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0e25d27d6209480800000000000000
+      internalID: -8894566558436499293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_35
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 488
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d1bd6038db434e0800000000000000
+      internalID: -2002767563819639512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_36
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 469
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee34a435c7e810c70800000000000000
+      internalID: 8935579800304239598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 461
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965bada5066fc9090800000000000000
+      internalID: -8026269542179490455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 469
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d265274983f6920800000000000000
+      internalID: 2985667288194493854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 469
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d16444f6ee1a8d0800000000000000
+      internalID: -2836724128612475634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_40
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 431
+        width: 112
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96e8ccdded1e5840800000000000000
+      internalID: 5214638325990221467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_41
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 431
+        width: 112
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba34b156bc483b780800000000000000
+      internalID: -8668438848648559701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 446
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0291c6b4d3fcfa580800000000000000
+      internalID: -8813598083575441120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 446
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6304232787f609cf0800000000000000
+      internalID: -247575416402722762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 445
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5780b35b803a0150800000000000000
+      internalID: 5839533241801934687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 446
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75db31b0d5acf1af0800000000000000
+      internalID: -423397338982924969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_46
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 446
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcabd79f56575540800000000000000
+      internalID: 4996557280160492728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_47
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 445
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82a59c3684693ca0800000000000000
+      internalID: -6036683297808604531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_48
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 446
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54285a45bfaa000c0800000000000000
+      internalID: -4611498021993741755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 442
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded1f5eb5b6b99e60800000000000000
+      internalID: 7969601907308043757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_50
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 445
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1077da6c0383f2c0800000000000000
+      internalID: -4399028321655492578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 445
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191d8c6d0609da8c0800000000000000
+      internalID: -3986371349558275695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_52
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 446
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5be4b9da349f4b0800000000000000
+      internalID: -5406215464767539761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_53
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 405
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32007b766044f3c0800000000000000
+      internalID: -4326762533094424006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_54
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 397
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2aed468ac9ac530800000000000000
+      internalID: 3876082676366484211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_55
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 405
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825415d66651d3fa0800000000000000
+      internalID: -5819471613827922648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 405
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0124cf76981d78d80800000000000000
+      internalID: -8248393804420464112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 404
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e5b27cfb4fe4490800000000000000
+      internalID: -7759996003395346939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 403
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f4184cf043880a0800000000000000
+      internalID: -6879191188482470021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 404
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61404f625fef8c40800000000000000
+      internalID: 5516891205884985710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_60
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 403
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8441dc7c63058ed20800000000000000
+      internalID: 3307982122514191432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_61
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 404
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2d27f40724a84a0800000000000000
+      internalID: -6590382054566604039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_62
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 404
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a61e48107f56c3d0800000000000000
+      internalID: -3186754751269300568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_63
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 403
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6cbc63670b14e10800000000000000
+      internalID: 2180217716395984595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 403
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c7b09bd2a8c31a0800000000000000
+      internalID: -6828431006017815409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_65
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 404
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1249ba7a1c68ed690800000000000000
+      internalID: -7575469356890745823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_66
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 411
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e531c9d9841b7bb50800000000000000
+      internalID: 6608945903629505374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 401
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c58d166c58d3cae0800000000000000
+      internalID: -1530141557014035004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 401
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba04ed9fc8065af90800000000000000
+      internalID: -6943037091917971285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_69
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 398
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2196b47f1bf9d10800000000000000
+      internalID: 2134620424077120181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_70
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 361
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ecef8c73c108a40800000000000000
+      internalID: 5368321781746552347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 360
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d7a82d6239265d0800000000000000
+      internalID: -3070730200962925288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_72
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 383
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd9c10fe390af2a0800000000000000
+      internalID: -6703034929466532403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_73
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 361
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dfed1178d5d2350800000000000000
+      internalID: 5993549513801792866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_74
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162dfaaaf02c7e150800000000000000
+      internalID: 5901899209236271713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_75
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e64a0c43e46b2480800000000000000
+      internalID: -8922927309308410144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_76
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 361
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7652f3dec031cce70800000000000000
+      internalID: 9136698690268767591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6d0a5da3df6ea30800000000000000
+      internalID: 4244358127977289457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_78
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 361
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a60ad9dbd96712b0800000000000000
+      internalID: -5613902017520335196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_79
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 360
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ec3676d904dedd0800000000000000
+      internalID: -2455235177058415044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_80
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 354
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a302253b8ae633970800000000000000
+      internalID: 8733445773243588666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_81
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 353
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c8827bf3922b3b0800000000000000
+      internalID: -5498286841433387986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_82
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 354
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efcdf445ca7b0e70800000000000000
+      internalID: 9082488061207367657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_83
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 353
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d7cb801c5f708d0800000000000000
+      internalID: -2880063227256078978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_84
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 323
+        width: 96
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0517d364aa3057bd0800000000000000
+      internalID: -2633194377270431408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_85
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 323
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cd8e1f506229e30800000000000000
+      internalID: 4508707983926549617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_86
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 323
+        width: 112
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a870d9c207b767b00800000000000000
+      internalID: 825983303384106890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_87
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 323
+        width: 128
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce4a60c2367360a0800000000000000
+      internalID: -6889533044598092089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_88
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 318
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c456dde018046bfe0800000000000000
+      internalID: -1173679729839086260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_89
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 318
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91ce72d246942e30800000000000000
+      internalID: 4477869143256646047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_90
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 318
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f019db47257dcf0800000000000000
+      internalID: -227622594808836264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_91
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 319
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3d9e1b97d9c95e0800000000000000
+      internalID: -1901471796655696926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_92
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 319
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf63b4ea8ded5000800000000000000
+      internalID: 26438353632325576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_93
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 341
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f4a1babaf1e3aa0800000000000000
+      internalID: -6179466816535244938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_94
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 334
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa966d46508f33b80800000000000000
+      internalID: -8416110576575026769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_95
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 334
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd60b120163602500800000000000000
+      internalID: 369404437742683867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_96
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 333
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3192fd2cdf096d0800000000000000
+      internalID: -2985607539537144845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_97
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 334
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eaa8bab6efd3020800000000000000
+      internalID: 2323292721185992242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_98
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 318
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b1799354260f790800000000000000
+      internalID: -7498385330113406140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_99
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 318
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f43d762b41a979d0800000000000000
+      internalID: -2776010351156841229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_100
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 316
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1760101b0208708a0800000000000000
+      internalID: -6338957072603740559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_101
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 318
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453b1fd7a131dc210800000000000000
+      internalID: 1354760067411456852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_102
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 314
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d1c6f2e8e856a40800000000000000
+      internalID: 5360847672786558350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_103
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 315
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb931aca7eed744d0800000000000000
+      internalID: -3150304327707313730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_104
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 314
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e8e3603eaa41250800000000000000
+      internalID: 5914540102683364893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_105
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 311
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a65138b235b220800000000000000
+      internalID: 2500960934757312774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 314
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ae1fade0c9473d0800000000000000
+      internalID: -3209769046791558590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 315
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19efb0cd1966de1e0800000000000000
+      internalID: -2166963069047275887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_108
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 277
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5421af0116f994280800000000000000
+      internalID: -9058533936233573819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_109
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 276
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb50d5be4b1b2a60800000000000000
+      internalID: 7650238416890649564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_110
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 276
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614727d1e437ea2f0800000000000000
+      internalID: -959702891244653546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_111
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 276
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f43375d4c2df00c0800000000000000
+      internalID: -4607232150940207884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_112
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 276
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabaa7fa2e811b8c0800000000000000
+      internalID: -3985376833360450643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_113
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 276
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4029e223b7e2a7c50800000000000000
+      internalID: 6663689705305838084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_114
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 277
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e236285b3c8b800a0800000000000000
+      internalID: -6915074077124041938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_115
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 277
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a4f6977cf172b0800000000000000
+      internalID: -5588408072026152759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_116
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 276
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa902c017432e490800000000000000
+      internalID: -7718549151220196694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 276
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0be92e7fbb352a80800000000000000
+      internalID: -8492315828695733492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 294
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fefe7b2a2ac4b3c0800000000000000
+      internalID: -4344625458038505737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 294
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab56ad0036e7a200800000000000000
+      internalID: 191374603248360355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_120
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 294
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd37f6ce1d643970800000000000000
+      internalID: 8733725556332772827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_121
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 294
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10098329edcbe950800000000000000
+      internalID: 6479498890109845532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_122
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 295
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620327b160ba7f6f0800000000000000
+      internalID: -650863578413125594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_123
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 294
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd94b5e2596c0a7f0800000000000000
+      internalID: -603264006037485091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_124
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 295
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc948e56890ddba20800000000000000
+      internalID: 3079847073154615759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_125
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 224
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74deeda0ecb7965b0800000000000000
+      internalID: -5374628555414115001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_126
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 207
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91124985e2219e850800000000000000
+      internalID: 6406671935175139609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_127
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 258
+        width: 112
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3742a56e883235f50800000000000000
+      internalID: 6868872927557330035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_128
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 258
+        width: 128
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a37206f57291fa00800000000000000
+      internalID: 788572445102732194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_129
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 137
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fd4a8a2ae27ff10800000000000000
+      internalID: 2303361010572255080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_130
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 129
+        width: 63
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea63e36ab8e22dc0800000000000000
+      internalID: -3665111259488752915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_131
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 123
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca6fd6f8f36046c0800000000000000
+      internalID: -4161216134745462074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_132
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 232
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec93958ef57676520800000000000000
+      internalID: 2695236563622246862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_133
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 228
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bd697be80cfd4b0800000000000000
+      internalID: -5413396507878040713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_134
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 170
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b6a336ec219f410800000000000000
+      internalID: 1511259827596847900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_135
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 129
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecbf813b4aee8fd0800000000000000
+      internalID: -2337673547883758363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_136
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 123
+        width: 55
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4a4f52a016fa1d0800000000000000
+      internalID: -3337342102643890958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_137
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 200
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35242d60519b4d190800000000000000
+      internalID: -7938516743187447213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_138
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 201
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d0af83bc41967d0800000000000000
+      internalID: -2924783619933598431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_139
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 179
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17771b03f70b4690800000000000000
+      internalID: -7616985604322527457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_140
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e4e50ff9dcd6870800000000000000
+      internalID: 8677818143829020188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_141
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 201
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68413c282e79271e0800000000000000
+      internalID: -2201530268718525306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_142
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 179
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73c00a7ce8bf0c10800000000000000
+      internalID: 2022038083511305085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_143
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 174
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5181a708e236ebb60800000000000000
+      internalID: 7763751859008444437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_144
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 181
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e461cd4dd0ebc2030800000000000000
+      internalID: 3471358379410855502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_145
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 179
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaa80e525deac1b0800000000000000
+      internalID: -5635431045680026882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_146
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 161
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bc0e203a42f56e0800000000000000
+      internalID: -1846717039652058268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_147
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 174
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024bef8447ca9f450800000000000000
+      internalID: 6123114783827735584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_148
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 161
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d383b942a1326b120800000000000000
+      internalID: 2429167644203235389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_149
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 160
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66abf01acfe2c000800000000000000
+      internalID: 54869796629227119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_150
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 158
+        width: 35
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc3bdfeea7462250800000000000000
+      internalID: 5919497576899099896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_151
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 156
+        width: 35
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af95ba7e94b1ba6f0800000000000000
+      internalID: -672413715128428038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_152
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 155
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2605e198c8a5af930800000000000000
+      internalID: 4177751163981942882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_153
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 140
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e598afd6143e9a0800000000000000
+      internalID: -6205043920975864204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_154
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 143
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325354fc17f386cd0800000000000000
+      internalID: -2564730229746223837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_155
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 139
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb0333110d0456b0800000000000000
+      internalID: -5308603762494731296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_156
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 135
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaabbe14a1729360800000000000000
+      internalID: 7174922106058812070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_157
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 135
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c511926e1bc1e180800000000000000
+      internalID: -9087759241693817400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_158
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 136
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7bcd46d853cb80800000000000000
+      internalID: -8375753204527563092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_159
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 135
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5078e12e3872630800000000000000
+      internalID: 3902232609337836991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_160
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 136
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87e64b8f34357cb0800000000000000
+      internalID: -4866926374779689077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_161
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 136
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610473301a0d68790800000000000000
+      internalID: -7528100337140940778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_162
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ed41308ebbc2660800000000000000
+      internalID: 7362466096002424349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_163
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 136
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e923ab572d0e7cb0800000000000000
+      internalID: -4864436084821251613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_164
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb88a891693e3b30800000000000000
+      internalID: 4268912588129602488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_165
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 133
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb3d68e48d53ff00800000000000000
+      internalID: 1149365155326147567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_166
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 136
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be39f296fa4cf1d60800000000000000
+      internalID: 7863219732075221995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_167
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df64ecac0f118b220800000000000000
+      internalID: 2501769318896649981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_168
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da670c18acd29a060800000000000000
+      internalID: 6965148646488700589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_169
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 135
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d58245607e7a470800000000000000
+      internalID: 8405941243878071709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_170
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 136
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11315b6a4e43acc0800000000000000
+      internalID: -3701028387233386211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_171
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 135
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3649e858bb78efb0800000000000000
+      internalID: -4618305386172561861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_172
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 136
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d311c29da7e24370800000000000000
+      internalID: 8305455395502101465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_173
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e12b0ac400269990800000000000000
+      internalID: -7379675734458293787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_174
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b56a275b54659a0800000000000000
+      internalID: -6244727187687711885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_175
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 135
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae93910c6339db40800000000000000
+      internalID: 5465456161766743716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_176
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 135
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ace5e4618e82890800000000000000
+      internalID: -7482475598374319472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_177
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 135
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf20f22b12a5c8340800000000000000
+      internalID: 4867364398050509564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_178
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 135
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280560a4f1a845eb0800000000000000
+      internalID: -4732005441469001598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_179
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 135
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d552149abc8a29dc0800000000000000
+      internalID: -3633656356663122595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_180
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fc25a0d303a0c10800000000000000
+      internalID: 2020480421553426274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_181
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 138
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7207a1b4ec9a51270800000000000000
+      internalID: 8220663398323089447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 42
+        width: 126
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e180da28c45addb20800000000000000
+      internalID: 3160864261512431646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_183
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 42
+        width: 124
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0df91547834ea6e0800000000000000
+      internalID: -1824446550779495154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_184
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 42
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f70fd00fa6a5c160800000000000000
+      internalID: 7045220462655113203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_185
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 30
+        width: 123
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d636d043875f31f20800000000000000
+      internalID: 3392324840958288749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_186
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 23
+        width: 108
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e01e6d99728a09b0800000000000000
+      internalID: -5113130968081887005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_187
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 89
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23475f69b5470220800000000000000
+      internalID: 2452005184865780523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_188
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 88
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b9cdc90b17ddda0800000000000000
+      internalID: -5918449331935077475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_189
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 89
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b12d2a2ebb0d4d0800000000000000
+      internalID: -3111780760444331231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_190
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed2872661f72d680800000000000000
+      internalID: -8731776993399919130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_191
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 88
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e333b0f0e53247260800000000000000
+      internalID: 7094334199901664062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_192
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 63
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6aaae033fec9fcf0800000000000000
+      internalID: -217915563057698193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_193
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 63
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71caa68d48a307bb0800000000000000
+      internalID: -4940384448984470505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_194
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 62
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeed8844244a0700800000000000000
+      internalID: 507292830659374767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_195
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 62
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d89ab7d3c5109d0800000000000000
+      internalID: -2809863273365009042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_196
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 63
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a314fb1899498520800000000000000
+      internalID: 2704773968865530786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_197
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 62
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfc810c01865cef0800000000000000
+      internalID: -88550196512239676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_198
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 63
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cea2f62025f78f80800000000000000
+      internalID: -8104239485988720955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles Destroyed 1_199
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 22
+        width: 112
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db5cb1f0f260abb0800000000000000
+      internalID: -4926829205355996206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

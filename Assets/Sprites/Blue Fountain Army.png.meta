@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 471155b48c835f64ea7cb6e57460874b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3189697155595717718
+    second: Blue Fountain Army_0
+  - first:
+      213: -3681438310344919252
+    second: Blue Fountain Army_1
+  - first:
+      213: 5632798193026438187
+    second: Blue Fountain Army_2
+  - first:
+      213: -2539369225441789934
+    second: Blue Fountain Army_3
+  - first:
+      213: -8718643836133930761
+    second: Blue Fountain Army_4
+  - first:
+      213: 3319965971805390300
+    second: Blue Fountain Army_5
+  - first:
+      213: -1899919543417292844
+    second: Blue Fountain Army_6
+  - first:
+      213: -6800941010844239991
+    second: Blue Fountain Army_7
+  - first:
+      213: 4581608425818991272
+    second: Blue Fountain Army_8
+  - first:
+      213: 775166674682147860
+    second: Blue Fountain Army_9
+  - first:
+      213: 4223916323716467661
+    second: Blue Fountain Army_10
+  - first:
+      213: 7129443796630120937
+    second: Blue Fountain Army_11
+  - first:
+      213: -6508755582458212094
+    second: Blue Fountain Army_12
+  - first:
+      213: 7141603391440920966
+    second: Blue Fountain Army_13
+  - first:
+      213: 4408807885556259283
+    second: Blue Fountain Army_14
+  - first:
+      213: -5662635032913155698
+    second: Blue Fountain Army_15
+  - first:
+      213: -7974275375922047428
+    second: Blue Fountain Army_16
+  - first:
+      213: 4334795951083649049
+    second: Blue Fountain Army_17
+  - first:
+      213: 1270430077426905433
+    second: Blue Fountain Army_18
+  - first:
+      213: 9075567057796574759
+    second: Blue Fountain Army_19
+  - first:
+      213: 7786662313989859370
+    second: Blue Fountain Army_20
+  - first:
+      213: -7471142432658990244
+    second: Blue Fountain Army_21
+  - first:
+      213: 6570003017905011623
+    second: Blue Fountain Army_22
+  - first:
+      213: -3548053540034249458
+    second: Blue Fountain Army_23
+  - first:
+      213: 7232737393852995464
+    second: Blue Fountain Army_24
+  - first:
+      213: -8843204145067498082
+    second: Blue Fountain Army_25
+  - first:
+      213: -5999303982943078586
+    second: Blue Fountain Army_26
+  - first:
+      213: -2952289054445631449
+    second: Blue Fountain Army_27
+  - first:
+      213: 4583393545757670119
+    second: Blue Fountain Army_28
+  - first:
+      213: -5444999815374193828
+    second: Blue Fountain Army_29
+  - first:
+      213: -2992664296599453478
+    second: Blue Fountain Army_30
+  - first:
+      213: 4042646657464207377
+    second: Blue Fountain Army_31
+  - first:
+      213: 3901038576791900294
+    second: Blue Fountain Army_32
+  - first:
+      213: 7298742577517375461
+    second: Blue Fountain Army_33
+  - first:
+      213: -7952514847382703373
+    second: Blue Fountain Army_34
+  - first:
+      213: 5779872101411677682
+    second: Blue Fountain Army_35
+  - first:
+      213: 3824701420568883948
+    second: Blue Fountain Army_36
+  - first:
+      213: -5066868341326422068
+    second: Blue Fountain Army_37
+  - first:
+      213: -665637452864299244
+    second: Blue Fountain Army_38
+  - first:
+      213: -8898523795710418123
+    second: Blue Fountain Army_39
+  - first:
+      213: -6543217698607817317
+    second: Blue Fountain Army_40
+  - first:
+      213: -7260496405347425112
+    second: Blue Fountain Army_41
+  - first:
+      213: -3703919718389107068
+    second: Blue Fountain Army_42
+  - first:
+      213: 7516632771302634093
+    second: Blue Fountain Army_43
+  - first:
+      213: 6465085893592583856
+    second: Blue Fountain Army_44
+  - first:
+      213: 3687337516869304299
+    second: Blue Fountain Army_45
+  - first:
+      213: 2720987178570622834
+    second: Blue Fountain Army_46
+  - first:
+      213: -7121567624292473362
+    second: Blue Fountain Army_47
+  - first:
+      213: -7580796814325834423
+    second: Blue Fountain Army_48
+  - first:
+      213: 3608614507330894069
+    second: Blue Fountain Army_49
+  - first:
+      213: 6476376821338291197
+    second: Blue Fountain Army_50
+  - first:
+      213: -8348505368556160701
+    second: Blue Fountain Army_51
+  - first:
+      213: -6340830399778379511
+    second: Blue Fountain Army_52
+  - first:
+      213: 1256422070576395757
+    second: Blue Fountain Army_53
+  - first:
+      213: -1690513168281321695
+    second: Blue Fountain Army_54
+  - first:
+      213: -384150289176515289
+    second: Blue Fountain Army_55
+  - first:
+      213: -1498699353531665680
+    second: Blue Fountain Army_56
+  - first:
+      213: 2749746809318776130
+    second: Blue Fountain Army_57
+  - first:
+      213: 1673021331553325231
+    second: Blue Fountain Army_58
+  - first:
+      213: 311499622215724680
+    second: Blue Fountain Army_59
+  - first:
+      213: -1286858003532689526
+    second: Blue Fountain Army_60
+  - first:
+      213: -21178169658458722
+    second: Blue Fountain Army_61
+  - first:
+      213: -202969104746844938
+    second: Blue Fountain Army_62
+  - first:
+      213: -9193067878367258981
+    second: Blue Fountain Army_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Fountain Army_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 400
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3b4a3365bebb3d0800000000000000
+      internalID: -3189697155595717718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 400
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c277061ac57e8ecc0800000000000000
+      internalID: -3681438310344919252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 400
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249dcadc18bb2e40800000000000000
+      internalID: 5632798193026438187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 400
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218bbf3c42952ccd0800000000000000
+      internalID: -2539369225441789934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 432
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f88618df97210780800000000000000
+      internalID: -8718643836133930761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 432
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd548df1673e21e20800000000000000
+      internalID: 3319965971805390300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 432
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d73ac0dd3122a5e0800000000000000
+      internalID: -1899919543417292844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 436
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9873e3efe243e91a0800000000000000
+      internalID: -6800941010844239991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 436
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaa0e0c694259f30800000000000000
+      internalID: 4581608425818991272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_9
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 436
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414762ecbf1f1ca00800000000000000
+      internalID: 775166674682147860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 436
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb0814648d5e9a30800000000000000
+      internalID: 4223916323716467661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 374
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e920401c5fd0f260800000000000000
+      internalID: 7129443796630120937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 373
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201dcb958414ca5a0800000000000000
+      internalID: -6508755582458212094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 371
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681af8952721c1360800000000000000
+      internalID: 7141603391440920966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 395
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9958db96b3f2d30800000000000000
+      internalID: 4408807885556259283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 403
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89678280774a61b0800000000000000
+      internalID: -5662635032913155698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 334
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36950d8bcea55190800000000000000
+      internalID: -7974275375922047428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 334
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918742663f9482c30800000000000000
+      internalID: 4334795951083649049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 334
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951b005ac6971a110800000000000000
+      internalID: 1270430077426905433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 334
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ea3379724e2fd70800000000000000
+      internalID: 9075567057796574759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_20
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 364
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28694b7e18cf0c60800000000000000
+      internalID: 7786662313989859370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_21
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 355
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b53039a8b215890800000000000000
+      internalID: -7471142432658990244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 267
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf8777fe65d2b50800000000000000
+      internalID: 6570003017905011623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 267
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0df03e8a18c2cec0800000000000000
+      internalID: -3548053540034249458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 267
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887da4ac658df5460800000000000000
+      internalID: 7232737393852995464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 267
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e956df0fea0a64580800000000000000
+      internalID: -8843204145067498082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 293
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647771d20d03ebca0800000000000000
+      internalID: -5999303982943078586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 293
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7288e733fbc5707d0800000000000000
+      internalID: -2952289054445631449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 293
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea34b0652c7b9f30800000000000000
+      internalID: 4583393545757670119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 293
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bbd8a44897f64b0800000000000000
+      internalID: -5444999815374193828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 293
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad002359dabe776d0800000000000000
+      internalID: -2992664296599453478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 201
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118039257bd5a1830800000000000000
+      internalID: 4042646657464207377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 201
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d6c0cae5432630800000000000000
+      internalID: 3901038576791900294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 201
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef21ff24b75a4560800000000000000
+      internalID: 7298742577517375461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 201
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2fbba61edf2a190800000000000000
+      internalID: -7952514847382703373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 234
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f565db9d0b363050800000000000000
+      internalID: 5779872101411677682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 233
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2b0f88da1141530800000000000000
+      internalID: 3824701420568883948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_37
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 161
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfd097c61edea9b0800000000000000
+      internalID: -5066868341326422068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 161
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fd3d8634e23c6f0800000000000000
+      internalID: -665637452864299244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_39
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 158
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533e15311c7128480800000000000000
+      internalID: -8898523795710418123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_40
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 161
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d9e6aab22d135a0800000000000000
+      internalID: -6543217698607817317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 161
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a42442bcf88d3b90800000000000000
+      internalID: -7260496405347425112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 161
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4863adce3a8099cc0800000000000000
+      internalID: -3703919718389107068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_43
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 160
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62bd804ea1705860800000000000000
+      internalID: 7516632771302634093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 160
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be89f1ed5998b950800000000000000
+      internalID: 6465085893592583856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 157
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef37fb6fed0c2330800000000000000
+      internalID: 3687337516869304299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_46
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27728192c63e2c520800000000000000
+      internalID: 2720987178570622834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_47
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 160
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5ef163afb1b2d90800000000000000
+      internalID: -7121567624292473362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d12bf46799bc690800000000000000
+      internalID: -7580796814325834423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 108
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f877c076cf541230800000000000000
+      internalID: 3608614507330894069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 108
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb317bd766b0e950800000000000000
+      internalID: 6476376821338291197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_51
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 108
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b4cd7996242c80800000000000000
+      internalID: -8348505368556160701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 98
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9092638b858d008a0800000000000000
+      internalID: -6340830399778379511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 94
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5baa46735bf6110800000000000000
+      internalID: 1256422070576395757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_54
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 108
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fb87cea371a88e0800000000000000
+      internalID: -1690513168281321695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_55
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 85
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d2549e8593baaf0800000000000000
+      internalID: -384150289176515289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_56
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 78
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f233afd0ec833be0800000000000000
+      internalID: -1498699353531665680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 42
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d95bf7720192620800000000000000
+      internalID: 2749746809318776130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_58
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 42
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa013e87904c73710800000000000000
+      internalID: 1673021331553325231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_59
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 42
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e26d9814ba25400800000000000000
+      internalID: 311499622215724680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_60
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 42
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fc01fb679242ee0800000000000000
+      internalID: -1286858003532689526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_61
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 32
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9db3802192c4bff0800000000000000
+      internalID: -21178169658458722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_62
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 40
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc6f23bca8ee2df0800000000000000
+      internalID: -202969104746844938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fountain Army_63
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 38
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b969dd9b879ab6080800000000000000
+      internalID: -9193067878367258981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 870fe05a38a33504da74ab3bd4de4437
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8136641922766784534
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_0
+  - first:
+      213: -2012222234057503896
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_1
+  - first:
+      213: -7840245957207146634
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_2
+  - first:
+      213: 3468332074007901068
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_3
+  - first:
+      213: -8078178121442956308
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_4
+  - first:
+      213: -717658119459133031
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_5
+  - first:
+      213: 2344080462409393692
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_6
+  - first:
+      213: -1979273431443244101
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_7
+  - first:
+      213: 206684304921973803
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_8
+  - first:
+      213: 1936191021686432003
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_9
+  - first:
+      213: 2260164865248387507
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_10
+  - first:
+      213: 8680941393826791235
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_11
+  - first:
+      213: -134557604867460942
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_12
+  - first:
+      213: 5667161679481329586
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_13
+  - first:
+      213: 7845110726666240959
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_14
+  - first:
+      213: 8814475116983631661
+    second: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+      Stage 1_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 512
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae73fe0f747d41f80800000000000000
+      internalID: -8136641922766784534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 56
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0cd11a862314e0800000000000000
+      internalID: -2012222234057503896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 336
+        width: 8
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fb9f067d9d13390800000000000000
+      internalID: -7840245957207146634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83b55235adf12030800000000000000
+      internalID: 3468332074007901068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 336
+        width: 8
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6f0f6ccb84ef80800000000000000
+      internalID: -8078178121442956308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 336
+        width: 24
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999a67f1ebd5a06f0800000000000000
+      internalID: -717658119459133031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 8
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1668d6d2c8d78020800000000000000
+      internalID: 2344080462409393692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 16
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbf47dfc453884e0800000000000000
+      internalID: -1979273431443244101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 8
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24d58fb74a4ed200800000000000000
+      internalID: 206684304921973803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 8
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301abe0d97bbeda10800000000000000
+      internalID: 1936191021686432003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 336
+        width: 16
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1e2f658f7bd5f10800000000000000
+      internalID: 2260164865248387507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 8
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fb70f3436e87870800000000000000
+      internalID: 8680941393826791235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 40
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b03c004294f12ef0800000000000000
+      internalID: -134557604867460942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 336
+        width: 16
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d036858dc5ae40800000000000000
+      internalID: 5667161679481329586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 16
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb34c8604ae6fdc60800000000000000
+      internalID: 7845110726666240959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Hokuto no Ken 6 Gekitou Denshou Ken Haou e no Michi JPN - Kenshiro
+        Stage 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f3455fa6e435a70800000000000000
+      internalID: 8814475116983631661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

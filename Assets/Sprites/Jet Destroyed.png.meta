@@ -1,0 +1,1952 @@
+fileFormatVersion: 2
+guid: 9eea646b0fee6aa488c8db04668f07b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3420687998731756142
+    second: Jet Destroyed_0
+  - first:
+      213: -3950734955993375301
+    second: Jet Destroyed_1
+  - first:
+      213: -5725890397954818786
+    second: Jet Destroyed_2
+  - first:
+      213: -3247937899258188116
+    second: Jet Destroyed_3
+  - first:
+      213: -6172331588674253220
+    second: Jet Destroyed_4
+  - first:
+      213: -5496724265764045713
+    second: Jet Destroyed_5
+  - first:
+      213: -3380828720519560729
+    second: Jet Destroyed_6
+  - first:
+      213: -516436896367512885
+    second: Jet Destroyed_7
+  - first:
+      213: -7292710795051347161
+    second: Jet Destroyed_8
+  - first:
+      213: 3585334241077860260
+    second: Jet Destroyed_9
+  - first:
+      213: 196529631983082903
+    second: Jet Destroyed_10
+  - first:
+      213: -5161272700426987641
+    second: Jet Destroyed_11
+  - first:
+      213: -4595458566880352255
+    second: Jet Destroyed_12
+  - first:
+      213: -1041222407365700239
+    second: Jet Destroyed_13
+  - first:
+      213: -2675763270073537143
+    second: Jet Destroyed_14
+  - first:
+      213: 3069718540227788677
+    second: Jet Destroyed_15
+  - first:
+      213: 3655607922075975141
+    second: Jet Destroyed_16
+  - first:
+      213: 8020907252219423214
+    second: Jet Destroyed_17
+  - first:
+      213: 5382985210709489232
+    second: Jet Destroyed_18
+  - first:
+      213: -6015636698613710511
+    second: Jet Destroyed_19
+  - first:
+      213: -6454684942813461132
+    second: Jet Destroyed_20
+  - first:
+      213: 3952368165288809385
+    second: Jet Destroyed_21
+  - first:
+      213: 754488858835095632
+    second: Jet Destroyed_22
+  - first:
+      213: 2069287931543926260
+    second: Jet Destroyed_23
+  - first:
+      213: 371587003292957820
+    second: Jet Destroyed_24
+  - first:
+      213: 8630912364158282006
+    second: Jet Destroyed_25
+  - first:
+      213: -5919489935728807710
+    second: Jet Destroyed_26
+  - first:
+      213: 8717011946915879764
+    second: Jet Destroyed_27
+  - first:
+      213: -6742112200443201623
+    second: Jet Destroyed_28
+  - first:
+      213: -7108274829229033439
+    second: Jet Destroyed_29
+  - first:
+      213: -2042296430221245116
+    second: Jet Destroyed_30
+  - first:
+      213: -3053250080249647076
+    second: Jet Destroyed_31
+  - first:
+      213: -8089815253066000110
+    second: Jet Destroyed_32
+  - first:
+      213: 1474104218791189658
+    second: Jet Destroyed_33
+  - first:
+      213: 8749320291549497964
+    second: Jet Destroyed_34
+  - first:
+      213: 8749801762319657221
+    second: Jet Destroyed_35
+  - first:
+      213: -3591948940036325616
+    second: Jet Destroyed_36
+  - first:
+      213: 1177903917479080419
+    second: Jet Destroyed_37
+  - first:
+      213: 6296800893435100530
+    second: Jet Destroyed_38
+  - first:
+      213: -2185029531323758519
+    second: Jet Destroyed_39
+  - first:
+      213: -3862155764482361300
+    second: Jet Destroyed_40
+  - first:
+      213: -7453702032348638328
+    second: Jet Destroyed_41
+  - first:
+      213: 4828892749675261734
+    second: Jet Destroyed_42
+  - first:
+      213: 8056243323117569515
+    second: Jet Destroyed_43
+  - first:
+      213: 135602408623821759
+    second: Jet Destroyed_44
+  - first:
+      213: 9084858684345836070
+    second: Jet Destroyed_45
+  - first:
+      213: 6816433807924947608
+    second: Jet Destroyed_46
+  - first:
+      213: -2175311504253360097
+    second: Jet Destroyed_47
+  - first:
+      213: 7687478496035755633
+    second: Jet Destroyed_48
+  - first:
+      213: -4730437578709872562
+    second: Jet Destroyed_49
+  - first:
+      213: -2726338965189140479
+    second: Jet Destroyed_50
+  - first:
+      213: 1376840175942308296
+    second: Jet Destroyed_51
+  - first:
+      213: -2505495749489707828
+    second: Jet Destroyed_52
+  - first:
+      213: 328556071782612847
+    second: Jet Destroyed_53
+  - first:
+      213: -6655513984478941081
+    second: Jet Destroyed_54
+  - first:
+      213: 6957156896117078910
+    second: Jet Destroyed_55
+  - first:
+      213: -7149176014166937230
+    second: Jet Destroyed_56
+  - first:
+      213: 8596602194017377579
+    second: Jet Destroyed_57
+  - first:
+      213: 1737947512225661590
+    second: Jet Destroyed_58
+  - first:
+      213: -3580370349910186706
+    second: Jet Destroyed_59
+  - first:
+      213: 6384026061127353958
+    second: Jet Destroyed_60
+  - first:
+      213: 5624264719606826638
+    second: Jet Destroyed_61
+  - first:
+      213: -5614307359717785674
+    second: Jet Destroyed_62
+  - first:
+      213: -4444482776590413936
+    second: Jet Destroyed_63
+  - first:
+      213: -962887475730714611
+    second: Jet Destroyed_64
+  - first:
+      213: -5506706047798893523
+    second: Jet Destroyed_65
+  - first:
+      213: 586005140006897001
+    second: Jet Destroyed_66
+  - first:
+      213: 6312814435102540930
+    second: Jet Destroyed_67
+  - first:
+      213: -8563536475808418972
+    second: Jet Destroyed_68
+  - first:
+      213: 7174529836482100102
+    second: Jet Destroyed_69
+  - first:
+      213: -7519804330019512333
+    second: Jet Destroyed_70
+  - first:
+      213: -4435005793044815456
+    second: Jet Destroyed_71
+  - first:
+      213: -8138035006077920140
+    second: Jet Destroyed_72
+  - first:
+      213: 5475714673361295043
+    second: Jet Destroyed_73
+  - first:
+      213: 8208174120818220121
+    second: Jet Destroyed_74
+  - first:
+      213: 380658252522459266
+    second: Jet Destroyed_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jet Destroyed_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 223
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dd62483664780d0800000000000000
+      internalID: -3420687998731756142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 218
+        width: 148
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbddb4a4d7b2c29c0800000000000000
+      internalID: -3950734955993375301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 211
+        width: 142
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d3517250d8980b0800000000000000
+      internalID: -5725890397954818786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 207
+        width: 131
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeef2e50b10de2d0800000000000000
+      internalID: -3247937899258188116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 191
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e062d5f19775aa0800000000000000
+      internalID: -6172331588674253220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_5
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 184
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c3dd63766b7b3b0800000000000000
+      internalID: -5496724265764045713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 128
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e14efae032e411d0800000000000000
+      internalID: -3380828720519560729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2fb13016f35d8f0800000000000000
+      internalID: -516436896367512885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723de4b9b261bca90800000000000000
+      internalID: -7292710795051347161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 123
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a79d701f7aa1c130800000000000000
+      internalID: 3585334241077860260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 116
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d9036b8a63ab200800000000000000
+      internalID: 196529631983082903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_11
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 21
+        width: 88
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d02613d97f58b0800000000000000
+      internalID: -5161272700426987641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_12
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 22
+        width: 81
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108221df7c6a930c0800000000000000
+      internalID: -4595458566880352255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_13
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 17
+        width: 73
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1755ac4bcb5dc81f0800000000000000
+      internalID: -1041222407365700239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_14
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 21
+        width: 67
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98daa309b77cddad0800000000000000
+      internalID: -2675763270073537143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 30
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f35be8fb4d99a20800000000000000
+      internalID: 3069718540227788677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 26
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed317179045bb230800000000000000
+      internalID: 3655607922075975141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 19
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9a4e836acff4f60800000000000000
+      internalID: 8020907252219423214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 20
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0563583678434ba40800000000000000
+      internalID: 5382985210709489232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 20
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15183597b4a248ca0800000000000000
+      internalID: -6015636698613710511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_20
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 92
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4758a8e2e3a5c66a0800000000000000
+      internalID: -6454684942813461132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_21
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 90
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a31a91e7e1a9d630800000000000000
+      internalID: 3952368165288809385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 93
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0501bd1ae9b787a00800000000000000
+      internalID: 754488858835095632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 93
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5bda1096697bc10800000000000000
+      internalID: 2069287931543926260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 92
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cbd662964282500800000000000000
+      internalID: 371587003292957820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_25
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 92
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6196e21111927c770800000000000000
+      internalID: 8630912364158282006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_26
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 92
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07269244fb9dda0800000000000000
+      internalID: -5919489935728807710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_27
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 92
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bd1c65e2c09f870800000000000000
+      internalID: 8717011946915879764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 92
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a771c8cca43f62a0800000000000000
+      internalID: -6742112200443201623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 93
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128f3fd34b55a5d90800000000000000
+      internalID: -7108274829229033439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_30
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 90
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4454d9e973e48a3e0800000000000000
+      internalID: -2042296430221245116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 93
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1079449a3da0a5d0800000000000000
+      internalID: -3053250080249647076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 92
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219d67693e33bbf80800000000000000
+      internalID: -8089815253066000110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_33
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 76
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c14f21af1157410800000000000000
+      internalID: 1474104218791189658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_34
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 76
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6acce30374db6970800000000000000
+      internalID: 8749320291549497964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_35
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 76
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509662a285a8d6970800000000000000
+      internalID: 8749801762319657221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_36
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 76
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f3bc15875d62ec0800000000000000
+      internalID: -3591948940036325616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_37
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1b1e44f51c85010800000000000000
+      internalID: 1177903917479080419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_38
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 77
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dbf8afc0bb26750800000000000000
+      internalID: 6296800893435100530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 77
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94885b1d7373da1e0800000000000000
+      internalID: -2185029531323758519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_40
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 76
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c283dc67bcdd66ac0800000000000000
+      internalID: -3862155764482361300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_41
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 77
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88390443e712f8890800000000000000
+      internalID: -7453702032348638328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_42
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 77
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f6ada0f5ca30340800000000000000
+      internalID: 4828892749675261734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 76
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5098a5e968dcf60800000000000000
+      internalID: 8056243323117569515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_44
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 77
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3d5b41ca1c1e100800000000000000
+      internalID: 135602408623821759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_45
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 75
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6226e0bf6d6e31e70800000000000000
+      internalID: 9084858684345836070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_46
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a645cee66d89e50800000000000000
+      internalID: 6816433807924947608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_47
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 59
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18682156bdbfc1e0800000000000000
+      internalID: -2175311504253360097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_48
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1765aae46f86faa60800000000000000
+      internalID: 7687478496035755633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_49
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 59
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40d6d8c51c1a5eb0800000000000000
+      internalID: -4730437578709872562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_50
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 59
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100689ae7291a2ad0800000000000000
+      internalID: -2726338965189140479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_51
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 59
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1178f58d48b1310800000000000000
+      internalID: 1376840175942308296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc43a69f3e0ba3dd0800000000000000
+      internalID: -2505495749489707828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_53
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f766ba1044f8400800000000000000
+      internalID: 328556071782612847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_54
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 59
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760fc752b4dd2a3a0800000000000000
+      internalID: -6655513984478941081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_55
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bb7bf1659cc8060800000000000000
+      internalID: 6957156896117078910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_56
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 43
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27136d60b4609cc90800000000000000
+      internalID: -7149176014166937230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_57
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ddfb116244d4770800000000000000
+      internalID: 8596602194017377579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_58
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 44
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6920c78ed0e6e1810800000000000000
+      internalID: 1737947512225661590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_59
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e252349e228ff4ec0800000000000000
+      internalID: -3580370349910186706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_60
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 43
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666055ae0ed989850800000000000000
+      internalID: 6384026061127353958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e864deeb6f66d0e40800000000000000
+      internalID: 5624264719606826638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_62
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bff824c339f512b0800000000000000
+      internalID: -5614307359717785674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_63
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 43
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f8cfa66760252c0800000000000000
+      internalID: -4444482776590413936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_64
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 43
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00f56241f223a2f0800000000000000
+      internalID: -962887475730714611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_65
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 44
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24a37a76004493b0800000000000000
+      internalID: -5506706047798893523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_66
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 44
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9650aaee198e12800800000000000000
+      internalID: 586005140006897001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_67
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 28
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284ce31384f9b9750800000000000000
+      internalID: 6312814435102540930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_68
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463b65262f4382980800000000000000
+      internalID: -8563536475808418972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_69
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 27
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bf4fdbfdc019360800000000000000
+      internalID: 7174529836482100102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_70
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 27
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff1eb0bdc944a790800000000000000
+      internalID: -7519804330019512333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_71
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 27
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1a3c89ab1b372c0800000000000000
+      internalID: -4435005793044815456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_72
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c18057744ef0f80800000000000000
+      internalID: -8138035006077920140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_73
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 28
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6181ddb75adfb40800000000000000
+      internalID: 5475714673361295043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_74
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c9ce5cfda49e170800000000000000
+      internalID: 8208174120818220121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Destroyed_75
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2801c62f9ae584500800000000000000
+      internalID: 380658252522459266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

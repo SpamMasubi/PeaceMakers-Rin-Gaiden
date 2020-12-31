@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GM
+  - MeleeAttack
+  - Points
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Weapon
+  - Terrain
+  - Action
+  - Player
+  - Projectiles
+  - TriggerZone
+  - Boss
+  - Death Effect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2039917699
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Object
+    uniqueID: 1168970619
+    locked: 0
+  - name: Ground
+    uniqueID: 2959470093
+    locked: 0
+  - name: Bridge
+    uniqueID: 2974565779
+    locked: 0
+  - name: Buildings
+    uniqueID: 2872332303
+    locked: 0
+  - name: VehicleTerrain
+    uniqueID: 1164236369
+    locked: 0
+  - name: Player
+    uniqueID: 2869035239
+    locked: 0
+  - name: Items
+    uniqueID: 1364221813
+    locked: 0
+  - name: Enemy Weapon
+    uniqueID: 1717264221
+    locked: 0
+  - name: Enemy
+    uniqueID: 3935173829
+    locked: 0
+  - name: Projectiles
+    uniqueID: 1482058617
+    locked: 0
+  - name: Weapon
+    uniqueID: 627032691
+    locked: 0
+  - name: Vehicles
+    uniqueID: 2917054247
+    locked: 0
+  - name: AttackEffect
+    uniqueID: 1384430251
+    locked: 0
+  - name: Foreground
+    uniqueID: 1343670951
+    locked: 0
+  - name: UI
+    uniqueID: 679691839
+    locked: 0

@@ -1,0 +1,2072 @@
+fileFormatVersion: 2
+guid: 4944ca2d0f9af46479630f96731e0a62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7081745837788426823
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_0
+  - first:
+      213: 7428427075193048779
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_1
+  - first:
+      213: -6463431977766556315
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_2
+  - first:
+      213: -8958350955957919604
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_3
+  - first:
+      213: -8273753241346671673
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_4
+  - first:
+      213: -5397005662524840641
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_5
+  - first:
+      213: 8247030928153782640
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_6
+  - first:
+      213: -950189174662739115
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_7
+  - first:
+      213: 3508256247567643360
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_8
+  - first:
+      213: -9182869972922307654
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_9
+  - first:
+      213: -7239946123631907646
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_10
+  - first:
+      213: 5298762898065348182
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_11
+  - first:
+      213: 4279584100143162413
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_12
+  - first:
+      213: 7928755153643851579
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_13
+  - first:
+      213: -6871005768465342138
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_14
+  - first:
+      213: -2139709057647295094
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_15
+  - first:
+      213: -5084935994373888801
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_16
+  - first:
+      213: 6009074570665642551
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_17
+  - first:
+      213: 4647261578982528414
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_18
+  - first:
+      213: -3025961033331892505
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_19
+  - first:
+      213: -8540300483731228091
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_20
+  - first:
+      213: 9105940813456803535
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_21
+  - first:
+      213: -6703911551857359257
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_22
+  - first:
+      213: -8092840165646840555
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_23
+  - first:
+      213: 1603627020588270107
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_24
+  - first:
+      213: -8650130310190972407
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_25
+  - first:
+      213: 1251921118432424408
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_26
+  - first:
+      213: 5169904670840109613
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_27
+  - first:
+      213: -862616986790764319
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_28
+  - first:
+      213: 6129468145128181076
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_29
+  - first:
+      213: -2858084518016799665
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_30
+  - first:
+      213: 8012664713062414408
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_31
+  - first:
+      213: 1464399610952303387
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_32
+  - first:
+      213: 2908808118025418206
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_33
+  - first:
+      213: 3657562534203094648
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_34
+  - first:
+      213: -8590000371600291478
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_35
+  - first:
+      213: -3830765924105403025
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_36
+  - first:
+      213: 2700600586534136369
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_37
+  - first:
+      213: 7130169760721847400
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_38
+  - first:
+      213: -7216267753603245790
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_39
+  - first:
+      213: -1562661927120451973
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_40
+  - first:
+      213: -3372545968856856958
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_41
+  - first:
+      213: 4470759433026581596
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_42
+  - first:
+      213: 7063371733932989403
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_43
+  - first:
+      213: 3657961915759802360
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_44
+  - first:
+      213: 342799101562691740
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_45
+  - first:
+      213: -4000799812631268505
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_46
+  - first:
+      213: -6382133990313826584
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_47
+  - first:
+      213: 1414868714718889195
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_48
+  - first:
+      213: -7541409404853952410
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_49
+  - first:
+      213: -621415291206711423
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_50
+  - first:
+      213: -409445058439997932
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_51
+  - first:
+      213: 2252111459210087310
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_52
+  - first:
+      213: 4452588315999819683
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_53
+  - first:
+      213: 4026919646979203956
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_54
+  - first:
+      213: -950648311050578775
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_55
+  - first:
+      213: 7764694169243762511
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_56
+  - first:
+      213: 5047660098562011879
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_57
+  - first:
+      213: 2303073557827534805
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_58
+  - first:
+      213: -6497105604636168780
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_59
+  - first:
+      213: -3290934760186371899
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_60
+  - first:
+      213: -5178989073213627018
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_61
+  - first:
+      213: 3195719777129152706
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_62
+  - first:
+      213: 5354493314914505102
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_63
+  - first:
+      213: -821640733970731995
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_64
+  - first:
+      213: 2236937699836448338
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_65
+  - first:
+      213: 6551303561352649357
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_66
+  - first:
+      213: -765612337701089029
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_67
+  - first:
+      213: -4967336260956781771
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_68
+  - first:
+      213: 1471955868802746976
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_69
+  - first:
+      213: -8604775345787737372
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_70
+  - first:
+      213: -1571942690446539120
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_71
+  - first:
+      213: 6350380806937905678
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_72
+  - first:
+      213: 8437673351334093308
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_73
+  - first:
+      213: -2300991030076758701
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_74
+  - first:
+      213: -305115859595401817
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_75
+  - first:
+      213: 6107926847129541207
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_76
+  - first:
+      213: -4600041029040249074
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_77
+  - first:
+      213: 6227337895787899969
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_78
+  - first:
+      213: -5526258535852528352
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_79
+  - first:
+      213: 6571284171352869363
+    second: Genesis 32X SCD - Turbo Outrun - Other Cars_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 304
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd05056ea598bd90800000000000000
+      internalID: -7081745837788426823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce86c04113171760800000000000000
+      internalID: 7428427075193048779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 288
+        width: 105
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56de2576cd64d46a0800000000000000
+      internalID: -6463431977766556315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80e8d8d44b8da380800000000000000
+      internalID: -8958350955957919604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 304
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb7b426349bd2d80800000000000000
+      internalID: -8273753241346671673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 304
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f356f6ac1fbf915b0800000000000000
+      internalID: -5397005662524840641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 304
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079244c3fe6537270800000000000000
+      internalID: 8247030928153782640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 304
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b4ecedaff30d2f0800000000000000
+      internalID: -950189174662739115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 304
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e270593874dfa030800000000000000
+      internalID: 3508256247567643360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb6d5d9964ef8080800000000000000
+      internalID: -9182869972922307654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc24f30c5b868b90800000000000000
+      internalID: -7239946123631907646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 288
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656543028ccf88940800000000000000
+      internalID: 5298762898065348182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24617b9013246b30800000000000000
+      internalID: 4279584100143162413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 288
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f4dfbcdc8980e60800000000000000
+      internalID: 7928755153643851579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 240
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641a6f068a845a0a0800000000000000
+      internalID: -6871005768465342138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a854f30e2f93e42e0800000000000000
+      internalID: -2139709057647295094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 224
+        width: 104
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd42fbd77adae69b0800000000000000
+      internalID: -5084935994373888801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73acb5d0c75846350800000000000000
+      internalID: 6009074570665642551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 240
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e951399a8c36e7040800000000000000
+      internalID: 4647261578982528414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 240
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee1410f870a106d0800000000000000
+      internalID: -3025961033331892505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a7a1065f1ca7980800000000000000
+      internalID: -8540300483731228091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 240
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc603dbacecce5e70800000000000000
+      internalID: 9105940813456803535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 240
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76687e166fbe6f2a0800000000000000
+      internalID: -6703911551857359257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 224
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d4b9e3fb470bf80800000000000000
+      internalID: -8092840165646840555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12c162674a314610800000000000000
+      internalID: 1603627020588270107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9024a30305094f780800000000000000
+      internalID: -8650130310190972407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d179fecf97bf5110800000000000000
+      internalID: 1251921118432424408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 224
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2abe0428e03fb740800000000000000
+      internalID: 5169904670840109613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 176
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e06e1dbb6e5704f0800000000000000
+      internalID: -862616986790764319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 176
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d007c7dce301550800000000000000
+      internalID: 6129468145128181076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 176
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ca09d064b0658d0800000000000000
+      internalID: -2858084518016799665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84874668a14b23f60800000000000000
+      internalID: 8012664713062414408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13480cffa7925410800000000000000
+      internalID: 1464399610952303387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed57da262992e5820800000000000000
+      internalID: 2908808118025418206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876f3fa0fb542c230800000000000000
+      internalID: 3657562534203094648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 176
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a698a4e7c203ac880800000000000000
+      internalID: -8590000371600291478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65c60430b266dac0800000000000000
+      internalID: -3830765924105403025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 176
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a2490dce57a7520800000000000000
+      internalID: 2700600586534136369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864ce00ce9373f260800000000000000
+      internalID: 7130169760721847400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2295f5626baaadb90800000000000000
+      internalID: -7216267753603245790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_40
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7645f1b14f405ae0800000000000000
+      internalID: -1562661927120451973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 176
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2868c915f4f4231d0800000000000000
+      internalID: -3372545968856856958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54b6c964045b0e30800000000000000
+      internalID: 4470759433026581596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 176
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb5c9d2b23260260800000000000000
+      internalID: 7063371733932989403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 176
+        width: 50
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f735ce4bf0b3c230800000000000000
+      internalID: 3657961915759802360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90a7f577fdd1c400800000000000000
+      internalID: 342799101562691740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763f9ae74cd4a78c0800000000000000
+      internalID: -4000799812631268505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6e56623fa1e67a0800000000000000
+      internalID: -6382133990313826584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be402a8899f92a310800000000000000
+      internalID: 1414868714718889195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 120
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660e3e53a18875790800000000000000
+      internalID: -7541409404853952410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 120
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187c0a5c51a4067f0800000000000000
+      internalID: -621415291206711423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 120
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41615a083eb515af0800000000000000
+      internalID: -409445058439997932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_52
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bcdc0a07b114f10800000000000000
+      internalID: 2252111459210087310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7593a8b75cacd30800000000000000
+      internalID: 4452588315999819683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_54
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473ac39551e72e730800000000000000
+      internalID: 4026919646979203956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 120
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a45189d56e9ec2f0800000000000000
+      internalID: -950648311050578775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 120
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f3253353cb1cb60800000000000000
+      internalID: 7764694169243762511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2b3b1bd14ec0640800000000000000
+      internalID: 5047660098562011879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_58
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfb7e9d23926ff10800000000000000
+      internalID: 2303073557827534805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd267f20e4a5d5a0800000000000000
+      internalID: -6497105604636168780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_60
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c02b1095404452d0800000000000000
+      internalID: -3290934760186371899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675e87b90e88028b0800000000000000
+      internalID: -5178989073213627018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_62
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 84
+        width: 298
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c04975a43a795c20800000000000000
+      internalID: 3195719777129152706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81dea3fc4bfe4a40800000000000000
+      internalID: 5354493314914505102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ceeae0b12f894f0800000000000000
+      internalID: -821640733970731995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e4e677cf23b0f10800000000000000
+      internalID: 2236937699836448338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_66
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 32
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a1d26f0e7eaea50800000000000000
+      internalID: 6551303561352649357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 32
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf09baf92afff55f0800000000000000
+      internalID: -765612337701089029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_68
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53301cd1df9701bb0800000000000000
+      internalID: -4967336260956781771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a0a0d50107d6410800000000000000
+      internalID: 1471955868802746976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_70
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 32
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea684eb962b59880800000000000000
+      internalID: -8604775345787737372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_71
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09689a893765f2ae0800000000000000
+      internalID: -1571942690446539120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_72
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 32
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a0ef9b2b5112850800000000000000
+      internalID: 6350380806937905678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf16c055533a81570800000000000000
+      internalID: 8437673351334093308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3552aec69dc3110e0800000000000000
+      internalID: -2300991030076758701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_75
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a56a750eb204cbf0800000000000000
+      internalID: -305115859595401817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a5a353b17b3c450800000000000000
+      internalID: 6107926847129541207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0765df5e0f5920c0800000000000000
+      internalID: -4600041029040249074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c24c682d2fb6650800000000000000
+      internalID: 6227337895787899969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d2a891429ce43b0800000000000000
+      internalID: -5526258535852528352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Turbo Outrun - Other Cars_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f982af3324e13b50800000000000000
+      internalID: 6571284171352869363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

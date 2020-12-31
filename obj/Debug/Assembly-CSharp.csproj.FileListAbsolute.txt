@@ -1,0 +1,2 @@
+G:\My Games\Unity Projects\PeaceMakers Rin Gaiden\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+G:\My Games\Unity Projects\PeaceMakers Rin Gaiden\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
