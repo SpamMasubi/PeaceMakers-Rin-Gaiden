@@ -325,6 +325,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SFX
       objectReference: {fileID: 0}
+    - target: {fileID: 5687944223640853246, guid: a6e7b03e1086ccf478b06df14dfe392a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5687944223640853247, guid: a6e7b03e1086ccf478b06df14dfe392a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -438,6 +443,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Music
+      objectReference: {fileID: 0}
+    - target: {fileID: 4190604538488421389, guid: cedcb94e6e7d1984d85661e22e8cb6b9,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4190604538488421391, guid: cedcb94e6e7d1984d85661e22e8cb6b9,
         type: 3}

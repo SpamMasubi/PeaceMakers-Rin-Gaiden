@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
 {
+    private SFXManager sfxMan;
     public Text nameText;
     public Text dialogueText;
 
@@ -19,6 +20,7 @@ public class DialogueManager : MonoBehaviour
     {
         sentences = new Queue<string>();
         isDialogueDone = false;
+        sfxMan = FindObjectOfType<SFXManager>();
     }
 
     public void StartDialogue(Dialogue dialogue)
@@ -78,13 +80,16 @@ public class DialogueManager : MonoBehaviour
 
     IEnumerator TypeSentence(string sentence)
     {
+        
         dialogueText.text = "";
         foreach (char letter in sentence.ToCharArray())
         {
             dialogueText.text += letter;
+            sfxMan.selectionHover.Play();
             yield return null;
             //yield return new WaitForSeconds(typingSpeed);
         }
+        sfxMan.selectionHover.Stop();
     } 
 
     

@@ -83,6 +83,7 @@
     <Compile Include="Assets\Scripts\Commander.cs" />
     <Compile Include="Assets\Scripts\CommanderAttack.cs" />
     <Compile Include="Assets\Scripts\CommanderHealth.cs" />
+    <Compile Include="Assets\Scripts\CutsceneDialogue.cs" />
     <Compile Include="Assets\Scripts\DeathMusic.cs" />
     <Compile Include="Assets\Scripts\DestroyOverTime.cs" />
     <Compile Include="Assets\Scripts\Dialogue.cs" />
@@ -119,6 +120,7 @@
     <Compile Include="Assets\Scripts\StatusIndicator.cs" />
     <Compile Include="Assets\Scripts\Tiling.cs" />
     <Compile Include="Assets\Scripts\WinLevel.cs" />
+    <Compile Include="Assets\Scripts\startCutscene.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />

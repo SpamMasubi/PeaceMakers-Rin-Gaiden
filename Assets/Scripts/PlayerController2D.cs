@@ -74,7 +74,7 @@ public class PlayerController2D : MonoBehaviour
         {
             if (Time.time >= nextTimeAttack)
             {
-                if (Input.GetButtonDown("Fire1") && !isAttacking || Input.GetKey("space") && !isAttacking)
+                if (Input.GetButtonDown("Fire1") && !isAttacking)
                 {
                     isAttacking = true;
                     float delay = 0.4f;

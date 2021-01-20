@@ -24,7 +24,6 @@ public class StageComplete : MonoBehaviour
         StartCoroutine(activeStart());
         if (Input.GetKeyDown("space") && canContinue)
         {
-            
             MusicController.musicCanPlay = true;
             Boss.startBoss = false;
             Commander.startCommanderBoss = false;

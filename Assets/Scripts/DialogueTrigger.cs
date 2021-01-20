@@ -8,16 +8,33 @@ public class DialogueTrigger : MonoBehaviour
 
     public void Update()
     {
-        if (Input.GetKeyDown("space"))
+        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone)
         {
-            nextDialogue();
+            if (Input.GetKeyDown("space"))
+            {
+                nextDialogue();
+            }
         }
+
+        if (startCutscene.beginCutscene && !DialogueManager.isDialogueDone)
+        {
+            if (Input.GetKeyDown("space"))
+            {
+                nextCutsceneDialogue();
+            }
+        }
+
     }
     public void FixedUpdate()
     {
         if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone)
         {
             TriggerDialogue();
+        }
+
+        if (startCutscene.beginCutscene && !DialogueManager.isDialogueDone)
+        {
+            openCutscene();
         }
     }
     public void TriggerDialogue()
@@ -28,5 +45,15 @@ public class DialogueTrigger : MonoBehaviour
     public void nextDialogue()
     {
         FindObjectOfType<DialogueManager>().DisplayNextSentences();
+    }
+
+    public void openCutscene()
+    {
+        FindObjectOfType<CutsceneDialogue>().StartDialogue(dialogue);
+    }
+
+    public void nextCutsceneDialogue()
+    {
+        FindObjectOfType<CutsceneDialogue>().DisplayNextSentences();
     }
 }
