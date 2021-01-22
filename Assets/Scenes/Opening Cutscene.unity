@@ -984,20 +984,26 @@ MonoBehaviour:
     playerName: 
     sentences:
     - '                                                             202X A.D'
-    - 'Nuclear missles were sent flying to all corners of the world. The world was
-      engulfed in the flames of evil. '
-    - The seas dried up. The earth scorched up.
-    - All of civilization was turned into a desert wasteland.
-    - '                           However....Humanity still continue to survive.'
-    - A year have passed since the Masubi Clan disbanded after the defeat of Ninjustu
-      King.
+    - 'All of the nuclear missles were sent flying to all corners of the world. The
+      world was engulfed in the flames of evil. '
+    - The seas dried up. The earth scorched up. All of civilization was turned into
+      a desert wasteland.
+    - Everything mankind has worked for....were destroyed by their weapon of mass
+      destruction.
+    - '                           However....humanity still continue to survive.'
+    - A year have passed since the Masubi Clan disbanded after the defeat of the
+      Ninjustu King.
     - The wasteland continue to be ravaged by bandits and power-hungry martial artists
       looking to control the last remains of humanity.
     - The calls of the innocents and the weak echoes throughout the wasteland.
-    - 'Heaven has heard their cries and brought back the last remains of the Masubi
-      Clan legend. '
+    - 'Fortunately, Heaven has heard their cries and brought back the last remains
+      of the Masubi Clan legend. '
     - 'Rin, a surviving Masubi Clan, journeys through the wasteland protecting the
       people and bring justices to the forces of evil. '
+    - However, the Blue Fountain Organization, ruler of the land and the people,
+      will be a challenge Rin will face along her journey.
+    - 'Now a Ninjutsu fighter, Rin is determine to fight until the end to reunite
+      the Masubi Clan, protector of peace and savior of the people. '
     - '                                         The legend of the savior begins...'
 --- !u!1 &941291732
 GameObject:

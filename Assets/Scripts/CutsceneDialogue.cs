@@ -41,34 +41,34 @@ public class CutsceneDialogue : MonoBehaviour
     {
         if (startCutscene.beginCutscene)
         {
-            if (sentences.Count == 10)
+            if (sentences.Count == 12)
             {
                 cutscenes[0].SetActive(true);
-            } else if(sentences.Count == 9)
+            } else if(sentences.Count == 11)
             {
                 cutscenes[0].SetActive(false);
                 cutscenes[1].SetActive(true);
-            }else if (sentences.Count == 7)
+            }else if (sentences.Count == 9)
             {
                 cutscenes[1].SetActive(false);
                 cutscenes[2].SetActive(true);
             }
-            else if (sentences.Count == 6)
+            else if (sentences.Count == 8)
             {
                 cutscenes[2].SetActive(false);
                 cutscenes[3].SetActive(true);
             }
-            else if (sentences.Count == 5)
+            else if (sentences.Count == 7)
             {
                 cutscenes[3].SetActive(false);
                 cutscenes[4].SetActive(true);
             }
-            else if (sentences.Count == 4)
+            else if (sentences.Count == 6)
             {
                 cutscenes[4].SetActive(false);
                 cutscenes[5].SetActive(true);
             }
-            else if (sentences.Count == 2)
+            else if (sentences.Count == 4)
             {
                 cutscenes[5].SetActive(false);
                 cutscenes[6].SetActive(true);

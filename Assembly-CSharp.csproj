@@ -96,6 +96,7 @@
     <Compile Include="Assets\Scripts\GameMaster.cs" />
     <Compile Include="Assets\Scripts\GameOverUI.cs" />
     <Compile Include="Assets\Scripts\HealthItems.cs" />
+    <Compile Include="Assets\Scripts\IntroDialogueStart.cs" />
     <Compile Include="Assets\Scripts\LevelLoadStage.cs" />
     <Compile Include="Assets\Scripts\LevelLoader.cs" />
     <Compile Include="Assets\Scripts\LevelSelectItems.cs" />

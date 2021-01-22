@@ -8,7 +8,7 @@ public class DialogueTrigger : MonoBehaviour
 
     public void Update()
     {
-        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone)
+        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone || IntroDialogueStart.playerInTrigger && !DialogueManager.isDialogueDone)
         {
             if (Input.GetKeyDown("space"))
             {
@@ -27,7 +27,7 @@ public class DialogueTrigger : MonoBehaviour
     }
     public void FixedUpdate()
     {
-        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone)
+        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone || IntroDialogueStart.playerInTrigger && !DialogueManager.isDialogueDone)
         {
             TriggerDialogue();
         }
