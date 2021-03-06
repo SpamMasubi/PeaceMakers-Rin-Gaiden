@@ -41,6 +41,7 @@ public class WinLevel : MonoBehaviour
             SceneManager.LoadSceneAsync(levelToLoad);
             playerInWinZone = false;
             canContinue = false;
+            ChapterIntroUI.level3 = false;
         }
     }
 

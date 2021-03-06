@@ -27,6 +27,8 @@ public class GameMaster : MonoBehaviour
     private UnityEngine.Object explosionRef;
 
     public static bool playGame = false;
+
+    public static bool storyComplete = false;
     void Awake()
     {
         if (gm == null)
@@ -39,7 +41,7 @@ public class GameMaster : MonoBehaviour
     void Start()
     {
         explosionRef = Resources.Load("EnemyExplode");
-        if (!playGame)
+        if (!playGame && MainMenu.newGame)
         {
             playGame = true;
             _playerLives = maxLives;
@@ -51,17 +53,21 @@ public class GameMaster : MonoBehaviour
     public Transform spawnPoint;
     public float spawnDelay = 3.0f;
     public float gameOverDelay = 3.0f;
+    private float femaleEnemyRestart = 1.0f;
     public Transform spawnPrefab;
 
     public string sceneToLoad;
 
     public static bool charaDead = false;
     public static bool isGameOver = false;
+    //public static bool isFemaleEnemyDead = false;
 
     public void EndGame()
     {
         Boss.startBoss = false;
         Commander.startCommanderBoss = false;
+        Tsukimi.startTsukimiBoss = false;
+        Xelcior.startXelciorBoss = false;
         SceneManager.LoadScene(sceneToLoad);
 
     }
@@ -71,6 +77,7 @@ public class GameMaster : MonoBehaviour
         if (!isGameOver)
         {
             yield return new WaitForSeconds(spawnDelay);
+            Player.flashActive = true;
             Transform player = (Transform)Instantiate(playerPrefab, spawnPoint.position, spawnPoint.rotation);
             player.GetComponent<Player>().statsInd = this.statusIndicator;
             Transform clone = (Transform)Instantiate(spawnPrefab, spawnPoint.position, spawnPoint.rotation);
@@ -89,6 +96,7 @@ public class GameMaster : MonoBehaviour
 
     public static void KillPlayer(Player player)
     {
+        gm.playerExplodeEffect(player);
         Destroy(player.gameObject);
         if(_playerLives < 1)
         {
@@ -106,6 +114,13 @@ public class GameMaster : MonoBehaviour
         }
         
     }
+
+    public void playerExplodeEffect(Player _player)
+    {
+        sfxMan.enemyExplode.Play();
+        GameObject explosion = (GameObject)Instantiate(explosionRef);
+        explosion.transform.position = new Vector3(_player.transform.position.x, _player.transform.position.y + 0.3f, _player.transform.position.z);
+    }
     public static void KillEnemy(Enemy enemy)
     {
         gm._KillEnemy(enemy);
@@ -118,6 +133,22 @@ public class GameMaster : MonoBehaviour
         GameObject explosion = (GameObject)Instantiate(explosionRef);
         explosion.transform.position = new Vector3(_enemy.transform.position.x, _enemy.transform.position.y + 0.3f, _enemy.transform.position.z);
         Destroy(_enemy.gameObject);
+    }
+
+    public static void FemaleEnemyDefeat(FemaleEnemy femEnem)
+    {
+        //isFemaleEnemyDead = true;
+        gm._FemaleEnemyDefeat(femEnem);
+        //gm.StartCoroutine(gm.restartFemaleEnemy());
+    }
+
+    public void _FemaleEnemyDefeat(FemaleEnemy _femEnem)
+    {
+        scores += _femEnem.getScore;
+        sfxMan.enemyExplode.Play();
+        GameObject explosion = (GameObject)Instantiate(explosionRef);
+        explosion.transform.position = new Vector3(_femEnem.transform.position.x, _femEnem.transform.position.y + 0.3f, _femEnem.transform.position.z);
+        Destroy(_femEnem.gameObject);
     }
 
     public static void KillBoss(BossHealth boss)
@@ -145,6 +176,29 @@ public class GameMaster : MonoBehaviour
         Destroy(_commander.gameObject, 6f);
     }
 
+    public static void XelciorDefeat(XelciorHealth xelcior)
+    {
+        gm._XelciorDefeat(xelcior);
+    }
+
+    public void _XelciorDefeat(XelciorHealth _xelcior)
+    {
+        scores += _xelcior.getScore;
+        storyComplete = true;
+        Destroy(_xelcior.gameObject, 6f);
+    }
+
+    public static void TsukimiDefeat(TsukimiHealth tsukimi)
+    {
+        gm._TsukimiDefeat(tsukimi);
+    }
+
+    public void _TsukimiDefeat(TsukimiHealth _tsukimi)
+    {
+        scores += _tsukimi.getScore;
+        Destroy(_tsukimi.gameObject, 6f);
+    }
+
     public static void GetPoints(Points point)
     {
         gm._Points(point);
@@ -168,6 +222,13 @@ public class GameMaster : MonoBehaviour
         sfxMan.player1UP.Play();
         Destroy(playerLives.gameObject);
     }
+
+    /*
+    public IEnumerator restartFemaleEnemy()
+    {
+        yield return new WaitForSeconds(femaleEnemyRestart);
+        isFemaleEnemyDead = false;
+    }*/
 
         
 

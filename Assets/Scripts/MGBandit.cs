@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MGBandit : MonoBehaviour
 {
+
     [SerializeField]
     Transform player;
     [SerializeField]
@@ -15,14 +16,16 @@ public class MGBandit : MonoBehaviour
 
     public Transform launchPoint;
 
-    public float waitBetweenShots;
-    private float shotCounter;
-
     Animator anim;
 
     float nextTimeToSearch = 0;
     Vector3 lastTargetPosition;
     private SFXManager sfxMan;
+
+    public float waitBetweenShots;
+    private float shotCounter;
+
+    
 
     // Use this for initialization
     void Start()
@@ -80,18 +83,18 @@ public class MGBandit : MonoBehaviour
         {
             //enemy to the left side of the player, shoot left
             //rb2d.velocity = new Vector2(-moveSpeed, 0);
-
             anim.Play("MGBanditAttack");
             sfxMan.gunShotMultiple.Play();
-            GameObject projectile = (GameObject)Instantiate(enemyBullet, launchPoint.position, launchPoint.rotation);
-            projectile.SetActive(true);
+            Instantiate(enemyBullet, launchPoint.position, launchPoint.rotation);
             shotCounter = waitBetweenShots;
+
         }
         else if (transform.position.x == player.position.x || transform.position.x < player.position.x)
         {
             rb2d.velocity = Vector2.zero;
             anim.Play("MGBanditIdle");
         }
+
     }
 
     void FindPlayer()

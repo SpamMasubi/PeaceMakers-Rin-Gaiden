@@ -28,6 +28,7 @@ public class MusicSwitcher : MonoBehaviour {
 		
 	}
 
+    /*
     void OnTriggerEnter2D(Collider2D other)
     {
         if(other.gameObject.name == "Masaki")
@@ -35,5 +36,5 @@ public class MusicSwitcher : MonoBehaviour {
             theMC.SwitchTrack(newTrack);
             gameObject.SetActive(false);
         }
-    }
+    }*/
 }

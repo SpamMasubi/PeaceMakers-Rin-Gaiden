@@ -26,7 +26,7 @@ public class Player : MonoBehaviour
     public int fallBoundary = -5;
 
     private SFXManager sfxMan;
-    private bool flashActive;
+    public static bool flashActive;
     public float flashLength;
     private float flashCounter;
     public Animator anim;
@@ -75,7 +75,31 @@ public class Player : MonoBehaviour
         if (flashActive)
         {
 
-            if (flashCounter > flashLength * 0.66f)
+            if (flashCounter > flashLength * 2.64f)
+            {
+                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 0f);
+            }
+            else if (flashCounter > flashLength * 2.31f)
+            {
+                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 1f);
+            }
+            else if (flashCounter > flashLength * 1.98f)
+            {
+                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 0f);
+            }
+            else if (flashCounter > flashLength * 1.65f)
+            {
+                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 1f);
+            }
+            else if (flashCounter > flashLength * 1.32f)
+            {
+                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 0f);
+            }
+            else if (flashCounter > flashLength * 0.99f)
+            {
+                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 1f);
+            }
+            else if (flashCounter > flashLength * 0.66f)
             {
                 playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 0f);
             }
@@ -83,7 +107,7 @@ public class Player : MonoBehaviour
             {
                 playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 1f);
             }
-            else if (flashCounter > 0f)
+            else if (flashCounter > 0.0f)
             {
                 playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 0f);
             }
@@ -98,21 +122,24 @@ public class Player : MonoBehaviour
     }
     public void DamagePlayer(int damage)
     {
-        rb2D.AddForce(-transform.right * thrust);
-        rb2D.velocity = Vector2.zero;
-        anim.SetTrigger("playerHurt");
-        stats.curHealth -= damage;
-        flashActive = true;
-        flashCounter = flashLength;
-        playerHurt.clip = randHurt[Random.Range(0, randHurt.Length)];
-        playerHurt.PlayOneShot(playerHurt.clip);
-        if (stats.curHealth <= 0)
+        if (!flashActive)
         {
-            GameMaster.playGame = false;
-            sfxMan.playerDead.Play();
-            GameMaster.KillPlayer(this);
+            rb2D.AddForce(-transform.right * thrust);
+            rb2D.velocity = Vector2.zero;
+            anim.SetTrigger("playerHurt");
+            stats.curHealth -= damage;
+            flashActive = true;
+            flashCounter = flashLength + 1.5f;
+            playerHurt.clip = randHurt[Random.Range(0, randHurt.Length)];
+            playerHurt.PlayOneShot(playerHurt.clip);
+            if (stats.curHealth <= 0)
+            {
+                GameMaster.playGame = false;
+                sfxMan.playerDead.Play();
+                GameMaster.KillPlayer(this);
+            }
+            statsInd.SetHealth(stats.curHealth, stats.maxHealth);
         }
-        statsInd.SetHealth(stats.curHealth, stats.maxHealth);
     }
 
     public void HealPlayer(int healthItem)

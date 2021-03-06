@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: f39269d5da1da304c9401c43639fb1d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2241624139426033052
+    second: Tsukimi_0
+  - first:
+      213: -4830265228552967742
+    second: Tsukimi_1
+  - first:
+      213: 6406478839584382456
+    second: Tsukimi_2
+  - first:
+      213: 192939629112376762
+    second: Tsukimi_3
+  - first:
+      213: -2490681130364695447
+    second: Tsukimi_4
+  - first:
+      213: -6512589428878400253
+    second: Tsukimi_5
+  - first:
+      213: 6444953402795097976
+    second: Tsukimi_6
+  - first:
+      213: 5278604853616352993
+    second: Tsukimi_7
+  - first:
+      213: 6502525111681629373
+    second: Tsukimi_8
+  - first:
+      213: 7833976055574147105
+    second: Tsukimi_9
+  - first:
+      213: -8615837026472562238
+    second: Tsukimi_10
+  - first:
+      213: 7095810001985423496
+    second: Tsukimi_11
+  - first:
+      213: -2753511590613902103
+    second: Tsukimi_12
+  - first:
+      213: -5124004462027189356
+    second: Tsukimi_13
+  - first:
+      213: 7051380454105782467
+    second: Tsukimi_14
+  - first:
+      213: -4449729284960564441
+    second: Tsukimi_15
+  - first:
+      213: 4363912786884111668
+    second: Tsukimi_16
+  - first:
+      213: 468186923665620292
+    second: Tsukimi_17
+  - first:
+      213: 4296679312702302589
+    second: Tsukimi_18
+  - first:
+      213: 764121409874412401
+    second: Tsukimi_19
+  - first:
+      213: 1488298933663351039
+    second: Tsukimi_20
+  - first:
+      213: -252025715032604201
+    second: Tsukimi_21
+  - first:
+      213: 6264689553932172518
+    second: Tsukimi_22
+  - first:
+      213: 5798974082425191429
+    second: Tsukimi_23
+  - first:
+      213: 1085816435326796472
+    second: Tsukimi_24
+  - first:
+      213: -3164127993464314737
+    second: Tsukimi_25
+  - first:
+      213: -7913202607526649308
+    second: Tsukimi_26
+  - first:
+      213: -5083940413619536186
+    second: Tsukimi_27
+  - first:
+      213: -1074036310358793952
+    second: Tsukimi_28
+  - first:
+      213: 7446432209237829439
+    second: Tsukimi_29
+  - first:
+      213: 8007713692564814575
+    second: Tsukimi_30
+  - first:
+      213: 8217761143579932802
+    second: Tsukimi_31
+  - first:
+      213: -6083350078001006239
+    second: Tsukimi_32
+  - first:
+      213: 1308800376194038266
+    second: Tsukimi_33
+  - first:
+      213: -8915708680817989734
+    second: Tsukimi_34
+  - first:
+      213: 5527548543306454502
+    second: Tsukimi_35
+  - first:
+      213: 1256376710167190126
+    second: Tsukimi_36
+  - first:
+      213: -7586994397478328781
+    second: Tsukimi_37
+  - first:
+      213: 2064328165872638574
+    second: Tsukimi_38
+  - first:
+      213: -7527970073775494589
+    second: Tsukimi_39
+  - first:
+      213: -6113497294822028890
+    second: Tsukimi_40
+  - first:
+      213: 7694762846594108563
+    second: Tsukimi_41
+  - first:
+      213: 3659670589644179842
+    second: Tsukimi_42
+  - first:
+      213: 8836221889425809852
+    second: Tsukimi_43
+  - first:
+      213: -6401433609686609388
+    second: Tsukimi_44
+  - first:
+      213: 3418979145569533082
+    second: Tsukimi_45
+  - first:
+      213: -3491559335094922189
+    second: Tsukimi_46
+  - first:
+      213: 6307547053267806036
+    second: Tsukimi_47
+  - first:
+      213: -1715739842810971418
+    second: Tsukimi_48
+  - first:
+      213: -4342947892827748705
+    second: Tsukimi_49
+  - first:
+      213: 2929196264260501170
+    second: Tsukimi_50
+  - first:
+      213: 1638743577158960349
+    second: Tsukimi_51
+  - first:
+      213: 110107801126052456
+    second: Tsukimi_52
+  - first:
+      213: -7043456566318454688
+    second: Tsukimi_53
+  - first:
+      213: 2745246617607217957
+    second: Tsukimi_54
+  - first:
+      213: -8720684176771139551
+    second: Tsukimi_55
+  - first:
+      213: 1412376825785150762
+    second: Tsukimi_56
+  - first:
+      213: 4511996060027107554
+    second: Tsukimi_57
+  - first:
+      213: 1987105355619200671
+    second: Tsukimi_58
+  - first:
+      213: 4588078365025967772
+    second: Tsukimi_59
+  - first:
+      213: 1579480559153541169
+    second: Tsukimi_60
+  - first:
+      213: 5074436779744493310
+    second: Tsukimi_61
+  - first:
+      213: 5003956791809619602
+    second: Tsukimi_62
+  - first:
+      213: 2525804755117892516
+    second: Tsukimi_63
+  - first:
+      213: 6627126338810880079
+    second: Tsukimi_64
+  - first:
+      213: -6900429322287376610
+    second: Tsukimi_65
+  - first:
+      213: 7282488605129388131
+    second: Tsukimi_66
+  - first:
+      213: 7899355781028209880
+    second: Tsukimi_67
+  - first:
+      213: -4609240514971781622
+    second: Tsukimi_68
+  - first:
+      213: 7053117535389202685
+    second: Tsukimi_69
+  - first:
+      213: 4471281145446723537
+    second: Tsukimi_70
+  - first:
+      213: 2534202589109994639
+    second: Tsukimi_71
+  - first:
+      213: 8374098514418146335
+    second: Tsukimi_72
+  - first:
+      213: 8659771007751374184
+    second: Tsukimi_73
+  - first:
+      213: -3291785323765861681
+    second: Tsukimi_74
+  - first:
+      213: -9202390341333277781
+    second: Tsukimi_75
+  - first:
+      213: 6127019354912523856
+    second: Tsukimi_76
+  - first:
+      213: 6808668050948520036
+    second: Tsukimi_77
+  - first:
+      213: -6173693251505694381
+    second: Tsukimi_78
+  - first:
+      213: 3347047074211314429
+    second: Tsukimi_79
+  - first:
+      213: 5864182186025346862
+    second: Tsukimi_80
+  - first:
+      213: 4321295069164908647
+    second: Tsukimi_81
+  - first:
+      213: -7199184542562244801
+    second: Tsukimi_82
+  - first:
+      213: 426533917366299155
+    second: Tsukimi_83
+  - first:
+      213: -592747093299974018
+    second: Tsukimi_84
+  - first:
+      213: -7028449948883410306
+    second: Tsukimi_85
+  - first:
+      213: -2054555356836634190
+    second: Tsukimi_86
+  - first:
+      213: -5733811761901468317
+    second: Tsukimi_87
+  - first:
+      213: 3768018465363516191
+    second: Tsukimi_88
+  - first:
+      213: 7406031923711927967
+    second: Tsukimi_89
+  - first:
+      213: -1067907792917374429
+    second: Tsukimi_90
+  - first:
+      213: -7176727113157149046
+    second: Tsukimi_91
+  - first:
+      213: 1639543069686454776
+    second: Tsukimi_92
+  - first:
+      213: 54395631719302133
+    second: Tsukimi_93
+  - first:
+      213: 865493995597092116
+    second: Tsukimi_94
+  - first:
+      213: 8620102778901828006
+    second: Tsukimi_95
+  - first:
+      213: -3124983300376808495
+    second: Tsukimi_96
+  - first:
+      213: -6059552926702494856
+    second: Tsukimi_97
+  - first:
+      213: 3123750482043457093
+    second: Tsukimi_98
+  - first:
+      213: 6294269657734328442
+    second: Tsukimi_99
+  - first:
+      213: 5347640934073068967
+    second: Tsukimi_100
+  - first:
+      213: -2451720547766484317
+    second: Tsukimi_101
+  - first:
+      213: 5583257484394481244
+    second: Tsukimi_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tsukimi_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 385
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4621299c8b624e0e0800000000000000
+      internalID: -2241624139426033052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 385
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9ed21dd5377fcb0800000000000000
+      internalID: -4830265228552967742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 385
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fddb76cf8268e850800000000000000
+      internalID: 6406478839584382456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 385
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdb65802957da200800000000000000
+      internalID: 192939629112376762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 379
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c08d745b25f6dd0800000000000000
+      internalID: -2490681130364695447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 394
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3052dbb6b62ae95a0800000000000000
+      internalID: -6512589428878400253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 320
+        width: 124
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ffb8719f2117950800000000000000
+      internalID: 6444953402795097976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 309
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee9479a52f514940800000000000000
+      internalID: 5278604853616352993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 314
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc37d0232c9d3a50800000000000000
+      internalID: 6502525111681629373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 330
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120b96367bfd7bc60800000000000000
+      internalID: 7833976055574147105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 239
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1f1728fd56e6880800000000000000
+      internalID: -8615837026472562238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 256
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88841020a91697260800000000000000
+      internalID: 7095810001985423496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 213
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec998c0ccf89c9d0800000000000000
+      internalID: -2753511590613902103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 162
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4935a550711e3e8b0800000000000000
+      internalID: -5124004462027189356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 162
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c89b17c9298bd160800000000000000
+      internalID: 7051380454105782467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 185
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bc54f7ac26f32c0800000000000000
+      internalID: -4449729284960564441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_35
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 16
+        width: 62
+        height: 92
+      alignment: 9
+      pivot: {x: 0.2805038, y: 0.32230833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5528a2d1cc5bc40800000000000000
+      internalID: 5527548543306454502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_46
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 18
+        width: 77
+        height: 107
+      alignment: 9
+      pivot: {x: 0.31618628, y: 0.26486245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d777a84d7b8fc0800000000000000
+      internalID: -3491559335094922189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_53
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 16
+        width: 54
+        height: 82
+      alignment: 9
+      pivot: {x: 0.30143908, y: 0.36381713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06822bd129d904e90800000000000000
+      internalID: -7043456566318454688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_60
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 22
+        width: 67
+        height: 93
+      alignment: 9
+      pivot: {x: 0.3027198, y: 0.25965446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1307bf933317be510800000000000000
+      internalID: 1579480559153541169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 29
+        width: 89
+        height: 93
+      alignment: 9
+      pivot: {x: 0.42081273, y: 0.18521237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d46d92fa3620ad60800000000000000
+      internalID: 7899355781028209880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 29
+        width: 91
+        height: 94
+      alignment: 9
+      pivot: {x: 0.47133994, y: 0.17075428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c15022b36c63470800000000000000
+      internalID: 8374098514418146335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 29
+        width: 89
+        height: 103
+      alignment: 9
+      pivot: {x: 0.3651315, y: 0.15907831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056018514ab870550800000000000000
+      internalID: 6127019354912523856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsukimi_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 29
+        width: 93
+        height: 93
+      alignment: 9
+      pivot: {x: 0.44340384, y: 0.17593269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37281c2dcb571c90800000000000000
+      internalID: -7199184542562244801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -11,7 +11,6 @@ public class startCutscene : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Begin Cutscene");
         beginCutscene = true;
     }
 
@@ -20,10 +19,10 @@ public class startCutscene : MonoBehaviour
     {
         if (CutsceneDialogue.isDialogueDone)
         {
-            Debug.Log("End Cutscene");
             beginCutscene = false;
             StartCoroutine(nextScene());
         }
+
     }
 
     public IEnumerator nextScene()

@@ -292,7 +292,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4165694758028235304}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.584, y: -1.248, z: 0}
+  m_LocalPosition: {x: -0.508, y: -1.122, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4165694758490615755}
@@ -405,7 +405,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.12358689}
+  m_Offset: {x: 0, y: -0.011990905}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -416,7 +416,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 2.4476361}
+  m_Size: {x: 1, y: 2.2244442}
   m_EdgeRadius: 0
 --- !u!95 &4165694758490615754
 Animator:
@@ -490,7 +490,7 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.37, y: -1.25}
+  m_Offset: {x: 0.42, y: -1.13}
   serializedVersion: 2
   m_Radius: 0.19
 --- !u!114 &4165694758490615750
@@ -512,7 +512,7 @@ MonoBehaviour:
   enemyBullet: {fileID: 2513451336982520561, guid: 9f041d2769ed21e498c339c33c951fbe,
     type: 3}
   launchPoint: {fileID: 9133679703238120236}
-  waitBetweenShots: 0.3
+  waitBetweenShots: 0.8
   castPos: {fileID: 4165694758028235311}
   baseCastDist: 1
   baseCastDistForward: 0.2

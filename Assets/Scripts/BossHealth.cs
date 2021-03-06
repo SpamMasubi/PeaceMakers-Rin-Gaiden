@@ -47,6 +47,8 @@ public class BossHealth : MonoBehaviour
     public static bool isBossDead = false;
     public GameObject winPrize;
 
+    public static bool canUnlock = false;
+
     void Start()
     {
         stats.Init();
@@ -67,35 +69,49 @@ public class BossHealth : MonoBehaviour
         {
             return;
         }
-        anim.Play("BanditDHurt");
-        stats.currentHealth -= damage;
-        flashActive = true;
-        bossDamage = true;
-        flashCounter = flashLength;
-        sfxMan.bossHurt.Play();
 
-        if (stats.currentHealth <= 500 && !isInvulnerable && !isEnrage)
+        if (!flashActive)
         {
-            isEnrage = true;
-            sfxMan.bossChargeUP.Play();
-            sfxMan.bossEnrage.Play();
-            GetComponent<Animator>().SetBool("IsEnraged", true);
-        }
+            if (isEnrage)
+            {
+                GetComponent<Animator>().SetBool("Enrage Hurt", true);
+            }
+            anim.Play("BanditDHurt");
+            stats.currentHealth -= damage;
+            flashActive = true;
+            bossDamage = true;
+            flashCounter = flashLength + 1;
+            sfxMan.bossHurt.Play();
 
-        if (stats.currentHealth <= 0)
-        {
-            isEnrage = false;
-            sfxMan.bossDead.Play();
-            Boss.startBoss = false;
-            GameMaster.KillBoss(this);
-            winPrize.SetActive(true);
-            bossDamage = false;
-            isBossDead = true;
-        }
+            if (stats.currentHealth <= 500 && !isInvulnerable && !isEnrage)
+            {
+                isEnrage = true;
+                sfxMan.bossChargeUP.Play();
+                sfxMan.bossEnrage.Play();
+                GetComponent<Animator>().SetBool("IsEnraged", true);
+            }
 
-        if (statsInd != null)
-        {
-            statsInd.SetHealth(stats.currentHealth, stats.maxHealth);
+            if (stats.currentHealth <= 0)
+            {
+                isEnrage = false;
+                sfxMan.bossDead.Play();
+                Boss.startBoss = false;
+                GameMaster.KillBoss(this);
+                winPrize.SetActive(true);
+                bossDamage = false;
+                isBossDead = true;
+                if (MainMenu.newGame)
+                {
+                    canUnlock = true;
+                    LevelSelectorManager.firstLevelComplete = true;
+                }
+                
+            }
+
+            if (statsInd != null)
+            {
+                statsInd.SetHealth(stats.currentHealth, stats.maxHealth);
+            }
         }
 
     }
@@ -104,8 +120,31 @@ public class BossHealth : MonoBehaviour
     {
         if (flashActive)
         {
-
-            if (flashCounter > flashLength * 0.66f)
+            if (flashCounter > flashLength * 2.64f)
+            {
+                enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 0f);
+            }
+            else if (flashCounter > flashLength * 2.31)
+            {
+                enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 1f);
+            }
+            else if (flashCounter > flashLength * 1.98f)
+            {
+                enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 0f);
+            }
+            else if (flashCounter > flashLength * 1.65f)
+            {
+                enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 1f);
+            }
+            else if (flashCounter > flashLength * 1.32f)
+            {
+                enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 0f);
+            }
+            else if (flashCounter > flashLength * 0.99f)
+            {
+                enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 1f);
+            }
+            else if (flashCounter > flashLength * 0.66f)
             {
                 enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 0f);
             }
@@ -113,7 +152,7 @@ public class BossHealth : MonoBehaviour
             {
                 enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 1f);
             }
-            else if (flashCounter > 0f)
+            else if (flashCounter > 0.0f)
             {
                 enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 0f);
             }
@@ -121,7 +160,6 @@ public class BossHealth : MonoBehaviour
             {
                 enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 1f);
                 flashActive = false;
-                bossDamage = false;
             }
             flashCounter -= Time.deltaTime;
         }

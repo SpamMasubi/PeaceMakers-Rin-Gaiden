@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: ec2a960b5c19bb3419b9aaa1e713f32e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5701002342800577130
+    second: BF Female Fighters_0
+  - first:
+      213: -5912547906337827652
+    second: BF Female Fighters_1
+  - first:
+      213: -3916369987227056314
+    second: BF Female Fighters_2
+  - first:
+      213: -7194902116851509920
+    second: BF Female Fighters_3
+  - first:
+      213: 2469302647618607445
+    second: BF Female Fighters_4
+  - first:
+      213: -7383405034159403229
+    second: BF Female Fighters_5
+  - first:
+      213: -415115128449361483
+    second: BF Female Fighters_6
+  - first:
+      213: -1992674746117586031
+    second: BF Female Fighters_7
+  - first:
+      213: 5104166723968009056
+    second: BF Female Fighters_8
+  - first:
+      213: -4056548805673311840
+    second: BF Female Fighters_9
+  - first:
+      213: 2345291273217833689
+    second: BF Female Fighters_10
+  - first:
+      213: 6758554423661906111
+    second: BF Female Fighters_11
+  - first:
+      213: 1454524400851073691
+    second: BF Female Fighters_12
+  - first:
+      213: -9093125013553285168
+    second: BF Female Fighters_13
+  - first:
+      213: -8550682251970976198
+    second: BF Female Fighters_14
+  - first:
+      213: 60345564739567012
+    second: BF Female Fighters_15
+  - first:
+      213: 137427247626986168
+    second: BF Female Fighters_16
+  - first:
+      213: 7038299048606005086
+    second: BF Female Fighters_17
+  - first:
+      213: 3742372018296121907
+    second: BF Female Fighters_18
+  - first:
+      213: 4915679654086549047
+    second: BF Female Fighters_19
+  - first:
+      213: -2675400776152490774
+    second: BF Female Fighters_20
+  - first:
+      213: 8917145590148230579
+    second: BF Female Fighters_21
+  - first:
+      213: 6893428612336794274
+    second: BF Female Fighters_22
+  - first:
+      213: -5746716498519794368
+    second: BF Female Fighters_23
+  - first:
+      213: -6982842997759987381
+    second: BF Female Fighters_24
+  - first:
+      213: -7063793374173283673
+    second: BF Female Fighters_25
+  - first:
+      213: 9154812498887496388
+    second: BF Female Fighters_26
+  - first:
+      213: 8144291591597743863
+    second: BF Female Fighters_27
+  - first:
+      213: -5510400958754098144
+    second: BF Female Fighters_28
+  - first:
+      213: 6743211217164336860
+    second: BF Female Fighters_29
+  - first:
+      213: -7269360289778621527
+    second: BF Female Fighters_30
+  - first:
+      213: -737317989342987741
+    second: BF Female Fighters_31
+  - first:
+      213: -578663485269591001
+    second: BF Female Fighters_32
+  - first:
+      213: -2163348922300049935
+    second: BF Female Fighters_33
+  - first:
+      213: -8743980631594921964
+    second: BF Female Fighters_34
+  - first:
+      213: 412360342661066265
+    second: BF Female Fighters_35
+  - first:
+      213: 3466148955139405082
+    second: BF Female Fighters_36
+  - first:
+      213: 6746982244779993529
+    second: BF Female Fighters_37
+  - first:
+      213: 1378130808139174306
+    second: BF Female Fighters_38
+  - first:
+      213: 6643007983905157361
+    second: BF Female Fighters_39
+  - first:
+      213: -6561739932595908860
+    second: BF Female Fighters_40
+  - first:
+      213: -728929741683470284
+    second: BF Female Fighters_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BF Female Fighters_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 434
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a625c42fc670e1f40800000000000000
+      internalID: 5701002342800577130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 434
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41145510962fda0800000000000000
+      internalID: -5912547906337827652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 434
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64784561f3246a9c0800000000000000
+      internalID: -3916369987227056314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 434
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0651c5b15a2962c90800000000000000
+      internalID: -7194902116851509920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 391
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5591d32dca9b44220800000000000000
+      internalID: 2469302647618607445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 393
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f091a8d30e88990800000000000000
+      internalID: -7383405034159403229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 392
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b992e37df63d3af0800000000000000
+      internalID: -415115128449361483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 434
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19305c440e89854e0800000000000000
+      internalID: -1992674746117586031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 347
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0638b78a794a5d640800000000000000
+      internalID: 5104166723968009056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 347
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1aecf8a5e34b7c0800000000000000
+      internalID: -4056548805673311840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 347
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daf8f2bcf52c8020800000000000000
+      internalID: 2345291273217833689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 347
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb84381a0753bcd50800000000000000
+      internalID: 6758554423661906111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 373
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9abdd57c328f2410800000000000000
+      internalID: 1454524400851073691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 336
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 0.49200884, y: 0.687672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7ffe44afabec180800000000000000
+      internalID: -9093125013553285168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 242
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3668089bcfd55980800000000000000
+      internalID: -8550682251970976198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 242
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad721ea8f366d000800000000000000
+      internalID: 60345564739567012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 242
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b224458a5d38e100800000000000000
+      internalID: 137427247626986168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 242
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e577127b1bf0da160800000000000000
+      internalID: 7038299048606005086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 243
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ae6efc5839fe330800000000000000
+      internalID: 3742372018296121907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 241
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e917bd990083440800000000000000
+      internalID: 4915679654086549047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 269
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec50a14b211fdad0800000000000000
+      internalID: -2675400776152490774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 195
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.56248146, y: 0.68930423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bde93f4ba010cb70800000000000000
+      internalID: 8917145590148230579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 214
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa39daccc06aaf50800000000000000
+      internalID: 6893428612336794274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd9d0cacf8f30b0800000000000000
+      internalID: -5746716498519794368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 126
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41313c4a45f71f90800000000000000
+      internalID: -6982842997759987381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 126
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab4ad0a5d58fd90800000000000000
+      internalID: -7063793374173283673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_26
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 127
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.51147676, y: 0.69966847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2de75a67d6c0f70800000000000000
+      internalID: 9154812498887496388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_27
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 155
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe52606d06560170800000000000000
+      internalID: 8144291591597743863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 127
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0247d7bf58f1783b0800000000000000
+      internalID: -5510400958754098144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 96
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde728cffd2b49d50800000000000000
+      internalID: 6743211217164336860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 16
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a32a67c45b0e1b90800000000000000
+      internalID: -7269360289778621527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 16
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c340440ac28f7f0800000000000000
+      internalID: -578663485269591001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_34
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 16
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41093e271f327a680800000000000000
+      internalID: -8743980631594921964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 16
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15fca93c1c3a1030800000000000000
+      internalID: 3466148955139405082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_37
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 16
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9aaf5ca9812ad50800000000000000
+      internalID: 6746982244779993529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_38
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 16
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a158291baa102310800000000000000
+      internalID: 1378130808139174306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_40
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 16
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f00210c4400f4a0800000000000000
+      internalID: -6561739932595908860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF Female Fighters_41
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 16
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4305db0134252e5f0800000000000000
+      internalID: -728929741683470284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

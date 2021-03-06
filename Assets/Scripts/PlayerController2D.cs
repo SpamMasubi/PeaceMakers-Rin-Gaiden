@@ -102,6 +102,32 @@ public class PlayerController2D : MonoBehaviour
                                 commander.GetComponent<CommanderHealth>().TakeDamage(damage);
                             }
                         }
+                        else if (ChapterIntroUI.level3)
+                        {
+                            Collider2D[] enemyArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, enemyMask);
+                            foreach (Collider2D enemy in enemyArray)
+                            {
+                                enemy.GetComponent<FemaleEnemy>().takeDamage(damage);
+                            }
+                        }
+                        else if (Tsukimi.startTsukimiBoss)
+                        {
+                            Collider2D[] tsukimiArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, bossMask);
+                            foreach (Collider2D tsukimi in tsukimiArray)
+                            {
+
+                                tsukimi.GetComponent<TsukimiHealth>().TakeDamage(damage);
+                            }
+                        }
+                        else if (Xelcior.startXelciorBoss)
+                        {
+                            Collider2D[] xelciorArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, bossMask);
+                            foreach (Collider2D xelcior in xelciorArray)
+                            {
+
+                                xelcior.GetComponent<XelciorHealth>().TakeDamage(damage);
+                            }
+                        }
                         else
                         {
                             Collider2D[] enemyArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, enemyMask);
@@ -150,6 +176,31 @@ public class PlayerController2D : MonoBehaviour
                                 commander.GetComponent<CommanderHealth>().TakeDamage(damage);
                             }
                         }
+                        else if (ChapterIntroUI.level3) {
+                            Collider2D[] enemyArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, enemyMask);
+                            foreach (Collider2D enemy in enemyArray)
+                            {
+                                enemy.GetComponent<FemaleEnemy>().takeDamage(damage);
+                            }
+                        }
+                        else if (Tsukimi.startTsukimiBoss)
+                        {
+                            Collider2D[] tsukimiArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, bossMask);
+                            foreach (Collider2D tsukimi in tsukimiArray)
+                            {
+
+                                tsukimi.GetComponent<TsukimiHealth>().TakeDamage(damage);
+                            }
+                        }
+                        else if (Xelcior.startXelciorBoss)
+                        {
+                            Collider2D[] xelciorArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, bossMask);
+                            foreach (Collider2D xelcior in xelciorArray)
+                            {
+
+                                xelcior.GetComponent<XelciorHealth>().TakeDamage(damage);
+                            }
+                        }
                         else
                         {
                             Collider2D[] enemyArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, enemyMask);
@@ -191,6 +242,32 @@ public class PlayerController2D : MonoBehaviour
                                 commander.GetComponent<CommanderHealth>().TakeDamage(yoyodamage);
                             }
                         }
+                        else if (ChapterIntroUI.level3)
+                        {
+                            Collider2D[] femaleEnemyArray = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, enemyMaskYoyo);
+                            foreach (Collider2D femEnemy in femaleEnemyArray)
+                            {
+                                femEnemy.GetComponent<FemaleEnemy>().takeDamage(yoyodamage);
+                            }
+                        }
+                        else if (Tsukimi.startTsukimiBoss)
+                        {
+                            Collider2D[] tsukimiArrayYoyo = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, bossMaskYoyo);
+                            foreach (Collider2D tsukimi in tsukimiArrayYoyo)
+                            {
+
+                                tsukimi.GetComponent<TsukimiHealth>().TakeDamage(yoyodamage);
+                            }
+                        }
+                        else if (Xelcior.startXelciorBoss)
+                        {
+                            Collider2D[] xelciorArrayYoyo = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, bossMaskYoyo);
+                            foreach (Collider2D xelcior in xelciorArrayYoyo)
+                            {
+
+                                xelcior.GetComponent<XelciorHealth>().TakeDamage(yoyodamage);
+                            }
+                        }
                         else
                         {
                             Collider2D[] enemyArrayYoyo = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, enemyMaskYoyo);
@@ -220,6 +297,32 @@ public class PlayerController2D : MonoBehaviour
                             {
 
                                 commander.GetComponent<CommanderHealth>().TakeDamage(yoyodamage);
+                            }
+                        }
+                        else if (ChapterIntroUI.level3)
+                        {
+                            Collider2D[] femaleEnemyArray = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, enemyMaskYoyo);
+                            foreach (Collider2D femEnemy in femaleEnemyArray)
+                            {
+                                femEnemy.GetComponent<FemaleEnemy>().takeDamage(yoyodamage);
+                            }
+                        }
+                        else if (Tsukimi.startTsukimiBoss)
+                        {
+                            Collider2D[] tsukimiArrayYoyo = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, bossMaskYoyo);
+                            foreach (Collider2D tsukimi in tsukimiArrayYoyo)
+                            {
+
+                                tsukimi.GetComponent<TsukimiHealth>().TakeDamage(yoyodamage);
+                            }
+                        }
+                        else if (Xelcior.startXelciorBoss)
+                        {
+                            Collider2D[] xelciorArrayYoyo = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, bossMaskYoyo);
+                            foreach (Collider2D xelcior in xelciorArrayYoyo)
+                            {
+
+                                xelcior.GetComponent<XelciorHealth>().TakeDamage(yoyodamage);
                             }
                         }
                         else

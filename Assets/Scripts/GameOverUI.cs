@@ -25,6 +25,23 @@ public class GameOverUI : MonoBehaviour
         DialogueManager.isDialogueDone = false;
         Boss.startBoss = false;
         Commander.startCommanderBoss = false;
+        Tsukimi.startTsukimiBoss = false;
+        Xelcior.startXelciorBoss = false;
+        if (MainMenu.newGame)
+        {
+            if (!CommanderHealth.isBossDead && LevelSelectorManager.firstLevelComplete && !CommanderHealth.lvlComplete)
+            {
+                BossHealth.canUnlock = true;
+            }
+            else if (!TsukimiHealth.isBossDead && CommanderHealth.lvlComplete && !TsukimiHealth.lvlComplete)
+            {
+                CommanderHealth.canUnlock = true;
+            }
+            else if (!XelciorHealth.isBossDead && TsukimiHealth.lvlComplete && !XelciorHealth.lvlComplete)
+            {
+                TsukimiHealth.canUnlock = true;
+            }
+        }
         sfxMan.selection.Play();
         SceneManager.LoadScene(loadMainMenu);
     }
@@ -39,6 +56,23 @@ public class GameOverUI : MonoBehaviour
         DialogueManager.isDialogueDone = false;
         Boss.startBoss = false;
         Commander.startCommanderBoss = false;
+        Tsukimi.startTsukimiBoss = false;
+        Xelcior.startXelciorBoss = false;
+        if (MainMenu.newGame)
+        {
+            if (!CommanderHealth.isBossDead && LevelSelectorManager.firstLevelComplete && !CommanderHealth.lvlComplete)
+            {
+                BossHealth.canUnlock = true;
+            }
+            else if (!TsukimiHealth.isBossDead && CommanderHealth.lvlComplete && !TsukimiHealth.lvlComplete)
+            {
+                CommanderHealth.canUnlock = true;
+            }
+            else if (!XelciorHealth.isBossDead && TsukimiHealth.lvlComplete && !XelciorHealth.lvlComplete)
+            {
+                TsukimiHealth.canUnlock = true;
+            }
+        }
         sfxMan.selection.Play();
         sfxMan.playerRetry.Play();
         SceneManager.LoadScene(loadScene);

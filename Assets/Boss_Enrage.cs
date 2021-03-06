@@ -14,6 +14,14 @@ public class Boss_Enrage : StateMachineBehaviour
         {
             animator.GetComponent<CommanderHealth>().isInvulnerable = true;
         }
+        else if (Tsukimi.startTsukimiBoss)
+        {
+            animator.GetComponent<TsukimiHealth>().isInvulnerable = true;
+        }
+        else if (Xelcior.startXelciorBoss)
+        {
+            animator.GetComponent<XelciorHealth>().isInvulnerable = true;
+        }
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
@@ -32,6 +40,13 @@ public class Boss_Enrage : StateMachineBehaviour
         else if (Commander.startCommanderBoss)
         {
             animator.GetComponent<CommanderHealth>().isInvulnerable = false;
+        }else if (Tsukimi.startTsukimiBoss)
+        {
+            animator.GetComponent<TsukimiHealth>().isInvulnerable = false;
+        }
+        else if (Xelcior.startXelciorBoss)
+        {
+            animator.GetComponent<XelciorHealth>().isInvulnerable = false;
         }
     }
 }

@@ -27,8 +27,18 @@ public class StageComplete : MonoBehaviour
             MusicController.musicCanPlay = true;
             Boss.startBoss = false;
             Commander.startCommanderBoss = false;
-            sfxMan.beginGame.Play();
-            SceneManager.LoadSceneAsync(loadScene);
+            Tsukimi.startTsukimiBoss = false;
+            Xelcior.startXelciorBoss = false;
+            if (MainMenu.newGame && XelciorHealth.lvlComplete)
+            {
+                SceneManager.LoadSceneAsync("Ending Cutscene");
+            }
+            else
+            {
+                sfxMan.beginGame.Play();
+                SceneManager.LoadSceneAsync(loadScene);
+                MusicController.musicCanPlay = true;
+            }
             canContinue = false;
             startMessage.SetActive(false);
         }

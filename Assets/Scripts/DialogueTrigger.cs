@@ -5,10 +5,11 @@ using UnityEngine;
 public class DialogueTrigger : MonoBehaviour
 {
     public Dialogue dialogue;
+    //public float startDelay = 3.0f;
 
     public void Update()
     {
-        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone || IntroDialogueStart.playerInTrigger && !DialogueManager.isDialogueDone)
+        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone || TsukimiHealth.isBossDead && !DialogueManager.isDialogueDone || XelciorHealth.isBossDead && !DialogueManager.isDialogueDone || IntroDialogueStart.playerInTrigger && !DialogueManager.isDialogueDone)
         {
             if (Input.GetKeyDown("space"))
             {
@@ -16,7 +17,7 @@ public class DialogueTrigger : MonoBehaviour
             }
         }
 
-        if (startCutscene.beginCutscene && !DialogueManager.isDialogueDone)
+        if (startCutscene.beginCutscene && !CutsceneDialogue.isDialogueDone)
         {
             if (Input.GetKeyDown("space"))
             {
@@ -24,17 +25,31 @@ public class DialogueTrigger : MonoBehaviour
             }
         }
 
+        
+        if (startEndCutscene.beginEndCutscene && !EndCutscene.isDialogueDone)
+        {
+            if (Input.GetKeyDown("space"))
+            {
+                nextEndCutsceneDialogue();
+            }
+        }
+
     }
     public void FixedUpdate()
     {
-        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone || IntroDialogueStart.playerInTrigger && !DialogueManager.isDialogueDone)
+        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone || TsukimiHealth.isBossDead && !DialogueManager.isDialogueDone || XelciorHealth.isBossDead && !DialogueManager.isDialogueDone || IntroDialogueStart.playerInTrigger && !DialogueManager.isDialogueDone)
         {
             TriggerDialogue();
         }
 
-        if (startCutscene.beginCutscene && !DialogueManager.isDialogueDone)
+        if (startCutscene.beginCutscene && !CutsceneDialogue.isDialogueDone)
         {
             openCutscene();
+        }
+
+        if (startEndCutscene.beginEndCutscene && !EndCutscene.isDialogueDone)
+        {
+            openEndCutscene();
         }
     }
     public void TriggerDialogue()
@@ -55,5 +70,15 @@ public class DialogueTrigger : MonoBehaviour
     public void nextCutsceneDialogue()
     {
         FindObjectOfType<CutsceneDialogue>().DisplayNextSentences();
+    }
+
+    public void openEndCutscene()
+    {
+        FindObjectOfType<EndCutscene>().StartDialogue(dialogue);
+    }
+
+    public void nextEndCutsceneDialogue()
+    {
+        FindObjectOfType<EndCutscene>().DisplayNextSentences();
     }
 }

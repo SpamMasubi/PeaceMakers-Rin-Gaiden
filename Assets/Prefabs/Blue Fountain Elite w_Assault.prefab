@@ -68,7 +68,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1717264221
-  m_SortingLayer: 7
+  m_SortingLayer: 8
   m_SortingOrder: 0
   m_Sprite: {fileID: -9193067878367258981, guid: 471155b48c835f64ea7cb6e57460874b,
     type: 3}
@@ -168,7 +168,7 @@ Transform:
   m_GameObject: {fileID: 2364623148920445814}
   m_LocalRotation: {x: 0, y: 0, z: -1, w: 0}
   m_LocalPosition: {x: -1.738, y: 0.528, z: 0}
-  m_LocalScale: {x: 0.020362629, y: 0.030905103, z: 1}
+  m_LocalScale: {x: 0.053952735, y: 0.08188603, z: 2.6495955}
   m_Children: []
   m_Father: {fileID: 6438195978881863425}
   m_RootOrder: 3
@@ -210,7 +210,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1384430251
-  m_SortingLayer: 12
+  m_SortingLayer: 13
   m_SortingOrder: 0
   m_Sprite: {fileID: 3769318396793890509, guid: 5b3d652a17c2b254186e33b4ccf6154f,
     type: 3}
@@ -334,7 +334,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -359793467
-  m_SortingLayer: 8
+  m_SortingLayer: 9
   m_SortingOrder: 1
   m_Sprite: {fileID: -7580796814325834423, guid: 471155b48c835f64ea7cb6e57460874b,
     type: 3}
@@ -408,7 +408,7 @@ MonoBehaviour:
   anim: {fileID: 6438195978881863424}
   flashLength: 0.25
   stats:
-    maxHealth: 250
+    maxHealth: 200
     damage: 15
   getScore: 200
   statsInd: {fileID: 6438195979856591379}
@@ -465,10 +465,10 @@ MonoBehaviour:
   castPoint: {fileID: 2364623148581098465}
   agroRange: 12
   moveSpeed: 4
-  enemyBullet: {fileID: 2513451336982520561, guid: 9f041d2769ed21e498c339c33c951fbe,
+  enemyBullet: {fileID: 633353731924746311, guid: 4c28aa774b207f04f82f7013e56728a8,
     type: 3}
   launchPoint: {fileID: 2186441691679175654}
-  waitBetweenShots: 0.2
+  waitBetweenShots: 0.8
   castPos: {fileID: 6438195978417402597}
   baseCastDist: 1
   baseCastDistForward: 0.2

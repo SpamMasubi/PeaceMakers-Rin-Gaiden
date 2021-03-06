@@ -26,9 +26,9 @@ TagManager:
   - TriggerZone
   - Boss
   - Death Effect
-  - 
-  - 
-  - 
+  - BossAttacks
+  - PlayerAttack
+  - EnemyAttacks
   - 
   - 
   - 

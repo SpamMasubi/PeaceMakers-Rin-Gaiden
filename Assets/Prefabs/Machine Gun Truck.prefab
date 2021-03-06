@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 469688473221675764}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.62, y: -0.19, z: 0}
+  m_LocalPosition: {x: -3.89, y: -0.19, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 469688474271576408}
@@ -366,10 +366,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   agroRange: 10
-  enemyBullet: {fileID: 2513451336982520561, guid: 9f041d2769ed21e498c339c33c951fbe,
+  enemyBullet: {fileID: 633353731924746311, guid: 4c28aa774b207f04f82f7013e56728a8,
     type: 3}
   launchPoint: {fileID: 469688473221675765}
-  waitBetweenShots: 0.25
+  waitBetweenShots: 1.5
 --- !u!1 &469688474491082597
 GameObject:
   m_ObjectHideFlags: 0

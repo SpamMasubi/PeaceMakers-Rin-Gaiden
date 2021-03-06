@@ -12,9 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 9564cbad2d0a8c946959893ea43cfeb7
   - enabled: 1
-    path: Assets/Scenes/Loading Scene.unity
-    guid: 9b5592139e41f344cb5e6ed9e310f163
-  - enabled: 1
     path: Assets/Scenes/LevelSelectScreen.unity
     guid: f8a4da0308379794da2dcafd6908e90b
   - enabled: 1
@@ -39,9 +36,33 @@ EditorBuildSettings:
     path: Assets/Scenes/Level 2 Boss.unity
     guid: fb743705b85cd9443bbe4d76d2cbf921
   - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 53e0cb343961f774b83b4c71a5f65209
+  - enabled: 1
+    path: Assets/Scenes/Level 3-2.unity
+    guid: 44b17b2a77a4f644aa75caf5bfc36381
+  - enabled: 1
+    path: Assets/Scenes/Level 3 Boss.unity
+    guid: eeeb245a1960b1441a9c375fcad8c4a0
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 8ce514a18aa1da8449f4560b8b3b6a00
+  - enabled: 1
+    path: Assets/Scenes/Level 4-2.unity
+    guid: c0d5c8800035ff1409307d1ead71946b
+  - enabled: 1
+    path: Assets/Scenes/Level 4 Boss.unity
+    guid: a8b84bc8445d839469cd2b8d3ebce728
+  - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: 2a9379225319ba84b996e863500811c3
   - enabled: 1
     path: Assets/Scenes/Level Complete Screen.unity
     guid: 446a156194073f94ca119781695d78d3
+  - enabled: 1
+    path: Assets/Scenes/Ending Cutscene.unity
+    guid: b36609c5340c09f4bad569bc01ce455c
+  - enabled: 1
+    path: Assets/Scenes/End Credits.unity
+    guid: 8a3f0efac53903148ad693e1f417ecf9
   m_configObjects: {}

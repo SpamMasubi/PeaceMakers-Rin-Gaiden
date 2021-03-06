@@ -1,0 +1,1298 @@
+fileFormatVersion: 2
+guid: 2bb6a29ae982dc64db894a96291c62b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8141921224335098482
+    second: Xelcior Sprite_0
+  - first:
+      213: 6635612545733392409
+    second: Xelcior Sprite_1
+  - first:
+      213: -7921468395666752225
+    second: Xelcior Sprite_2
+  - first:
+      213: -5828513885549164449
+    second: Xelcior Sprite_3
+  - first:
+      213: -5445971073611014475
+    second: Xelcior Sprite_4
+  - first:
+      213: -1324808263487610170
+    second: Xelcior Sprite_5
+  - first:
+      213: -1339033960057020276
+    second: Xelcior Sprite_6
+  - first:
+      213: 5300436877737270290
+    second: Xelcior Sprite_7
+  - first:
+      213: 2794475426297833975
+    second: Xelcior Sprite_8
+  - first:
+      213: -2993509074503951707
+    second: Xelcior Sprite_9
+  - first:
+      213: 7092436190081345006
+    second: Xelcior Sprite_10
+  - first:
+      213: 3790601955990720975
+    second: Xelcior Sprite_11
+  - first:
+      213: -1988837561202005280
+    second: Xelcior Sprite_12
+  - first:
+      213: -2581525063246687015
+    second: Xelcior Sprite_13
+  - first:
+      213: 4363125572367114408
+    second: Xelcior Sprite_14
+  - first:
+      213: -6472878144018892844
+    second: Xelcior Sprite_15
+  - first:
+      213: 879074868363925121
+    second: Xelcior Sprite_16
+  - first:
+      213: -1281096173647597691
+    second: Xelcior Sprite_17
+  - first:
+      213: 2851759229397841083
+    second: Xelcior Sprite_18
+  - first:
+      213: 3632417490337025840
+    second: Xelcior Sprite_19
+  - first:
+      213: 3473791094692593881
+    second: Xelcior Sprite_20
+  - first:
+      213: 2369188300753742368
+    second: Xelcior Sprite_21
+  - first:
+      213: 4342336487317925209
+    second: Xelcior Sprite_22
+  - first:
+      213: 3178431022809636535
+    second: Xelcior Sprite_23
+  - first:
+      213: 8801229552024006886
+    second: Xelcior Sprite_24
+  - first:
+      213: 1049468536112771002
+    second: Xelcior Sprite_25
+  - first:
+      213: -4122978673377547494
+    second: Xelcior Sprite_26
+  - first:
+      213: 5071105632826948547
+    second: Xelcior Sprite_27
+  - first:
+      213: 2051343454325160738
+    second: Xelcior Sprite_28
+  - first:
+      213: 7643205709130242005
+    second: Xelcior Sprite_29
+  - first:
+      213: 5465581966110711783
+    second: Xelcior Sprite_30
+  - first:
+      213: 4634165301115168522
+    second: Xelcior Sprite_31
+  - first:
+      213: -2536479286769440231
+    second: Xelcior Sprite_32
+  - first:
+      213: -4440256406114012312
+    second: Xelcior Sprite_33
+  - first:
+      213: -8193938928149327881
+    second: Xelcior Sprite_34
+  - first:
+      213: 2776343690020764490
+    second: Xelcior Sprite_35
+  - first:
+      213: -9041870574557381798
+    second: Xelcior Sprite_36
+  - first:
+      213: 6117003802394973316
+    second: Xelcior Sprite_37
+  - first:
+      213: -4828848634716030717
+    second: Xelcior Sprite_38
+  - first:
+      213: -4553209131911725290
+    second: Xelcior Sprite_39
+  - first:
+      213: 7410040672160215322
+    second: Xelcior Sprite_40
+  - first:
+      213: -13870385253318357
+    second: Xelcior Sprite_41
+  - first:
+      213: 8221602122924804347
+    second: Xelcior Sprite_42
+  - first:
+      213: -7008526263331034263
+    second: Xelcior Sprite_43
+  - first:
+      213: 3162776748403005020
+    second: Xelcior Sprite_44
+  - first:
+      213: -4571551167793406568
+    second: Xelcior Sprite_45
+  - first:
+      213: 5681145250693183176
+    second: Xelcior Sprite_46
+  - first:
+      213: 7744823591110771019
+    second: Xelcior Sprite_47
+  - first:
+      213: -1499898851620890886
+    second: Xelcior Sprite_48
+  - first:
+      213: 8386263146645678765
+    second: Xelcior Sprite_49
+  - first:
+      213: -4303370667167726263
+    second: Xelcior Sprite_50
+  - first:
+      213: -1660565521049268305
+    second: Xelcior Sprite_51
+  - first:
+      213: -4038809917269166126
+    second: Xelcior Sprite_52
+  - first:
+      213: 5412335945554904021
+    second: Xelcior Sprite_53
+  - first:
+      213: 5525675969112586467
+    second: Xelcior Sprite_54
+  - first:
+      213: -1742371789978952326
+    second: Xelcior Sprite_55
+  - first:
+      213: -1940919115551382920
+    second: Xelcior Sprite_56
+  - first:
+      213: -6530321267057607550
+    second: Xelcior Sprite_57
+  - first:
+      213: -5547239192932022523
+    second: Xelcior Sprite_58
+  - first:
+      213: 1293809899379165638
+    second: Xelcior Sprite_59
+  - first:
+      213: 1535083765105834476
+    second: Xelcior Sprite_60
+  - first:
+      213: 3584520602713660086
+    second: Xelcior Sprite_61
+  - first:
+      213: 691311575449953576
+    second: Xelcior Sprite_62
+  - first:
+      213: -8179388106724827016
+    second: Xelcior Sprite_63
+  - first:
+      213: 1870824179858712570
+    second: Xelcior Sprite_64
+  - first:
+      213: -2845281163938814859
+    second: Xelcior Sprite_65
+  - first:
+      213: -2978519436201216092
+    second: Xelcior Sprite_66
+  - first:
+      213: -5575191623546121065
+    second: Xelcior Sprite_67
+  - first:
+      213: -7994676004573065397
+    second: Xelcior Sprite_68
+  - first:
+      213: 8439880946324473041
+    second: Xelcior Sprite_69
+  - first:
+      213: -6848087607937544827
+    second: Xelcior Sprite_70
+  - first:
+      213: -4794017613456113372
+    second: Xelcior Sprite_71
+  - first:
+      213: -4369986253701218870
+    second: Xelcior Sprite_72
+  - first:
+      213: -164325550264015735
+    second: Xelcior Sprite_73
+  - first:
+      213: 454573156257422756
+    second: Xelcior Sprite_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xelcior Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 807
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dfa42c8c5120f80800000000000000
+      internalID: -8141921224335098482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 806
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918709f047e661c50800000000000000
+      internalID: 6635612545733392409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 807
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dbcc0c67a411290800000000000000
+      internalID: -7921468395666752225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 807
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58096b7085fc1fa0800000000000000
+      internalID: -5828513885549164449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 845
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bedc5c99260c64b0800000000000000
+      internalID: -5445971073611014475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 845
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2a15b47e55d9de0800000000000000
+      internalID: -1324808263487610170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 733
+        width: 124
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80ed9435bbca6de0800000000000000
+      internalID: -1339033960057020276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 763
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c19e3e14fee8940800000000000000
+      internalID: 5300436877737270290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 786
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f96a0e2898f7c620800000000000000
+      internalID: 2794475426297833975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 787
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa98466b5be476d0800000000000000
+      internalID: -2993509074503951707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 708
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee56ce533256d6260800000000000000
+      internalID: 7092436190081345006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 710
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc15abf356cea9430800000000000000
+      internalID: 3790601955990720975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 707
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaa99086ca3664e0800000000000000
+      internalID: -1988837561202005280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 709
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4d96ae1a49c2cd0800000000000000
+      internalID: -2581525063246687015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 708
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a06d5b579fec8c30800000000000000
+      internalID: 4363125572367114408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 655
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d73d5f6f97bb26a0800000000000000
+      internalID: -6472878144018892844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 655
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1861ecb6fe9133c00800000000000000
+      internalID: 879074868363925121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 653
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f6f9e41d1a83ee0800000000000000
+      internalID: -1281096173647597691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 591
+        width: 124
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4333de8eb739720800000000000000
+      internalID: 2851759229397841083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 497
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f447b4670f86230800000000000000
+      internalID: 3632417490337025840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 497
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0411f7892653030800000000000000
+      internalID: 3473791094692593881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 497
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a2070053c01e020800000000000000
+      internalID: 2369188300753742368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 497
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d6dcd4704134c30800000000000000
+      internalID: 4342336487317925209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 507
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be56a9dc2e0c1c20800000000000000
+      internalID: 3178431022809636535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 509
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0bf0b85af342a70800000000000000
+      internalID: 8801229552024006886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf63f1c216709e00800000000000000
+      internalID: 1049468536112771002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 384
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1be1d4bdbc38c6c0800000000000000
+      internalID: -4122978673377547494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 384
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbf12784bf206640800000000000000
+      internalID: 5071105632826948547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 384
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bbf53d006d77c10800000000000000
+      internalID: 2051343454325160738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 379
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d712f5d81f121a60800000000000000
+      internalID: 7643205709130242005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 285
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef5fcc17d5a9db40800000000000000
+      internalID: 5465581966110711783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 290
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07296bd9ccdf4040800000000000000
+      internalID: 4634165301115168522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 139
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aa8fb078d9cccd0800000000000000
+      internalID: -2536479286769440231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 138
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff0a6c45f7494e80800000000000000
+      internalID: -8193938928149327881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 143
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b337a4e92d48280800000000000000
+      internalID: -9041870574557381798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 131
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484577b8c86f3e450800000000000000
+      internalID: 6117003802394973316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 145
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309fe9540cb7cfcb0800000000000000
+      internalID: -4828848634716030717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 148
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f36502b60cfc0c0800000000000000
+      internalID: -4553209131911725290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 145
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a117e433bb0c5d660800000000000000
+      internalID: 7410040672160215322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 35
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3c0efddda7c1b40800000000000000
+      internalID: 5412335945554904021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 26
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e83ed284052fac40800000000000000
+      internalID: 5525675969112586467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 12
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d94a7a61ad1d7e0800000000000000
+      internalID: -1742371789978952326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 22
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3adf1863af55a0800000000000000
+      internalID: -6530321267057607550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 17
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5078925385f3403b0800000000000000
+      internalID: -5547239192932022523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xelcior Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 20
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba11de1f76ceb130800000000000000
+      internalID: 3584520602713660086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

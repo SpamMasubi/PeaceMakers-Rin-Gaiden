@@ -16,6 +16,7 @@ public class ChapterIntroUI : MonoBehaviour
     public GameObject startMessage;
     private bool canStart = false;
     public float startDelay = 5.0f;
+    public static bool level3 = false;
 
     private SFXManager sfxMan;
     // Start is called before the first frame update
@@ -23,6 +24,7 @@ public class ChapterIntroUI : MonoBehaviour
     {
         sfxMan = FindObjectOfType<SFXManager>();
         canStart = false;
+        level3 = false;
     }
 
     // Update is called once per frame
@@ -58,7 +60,43 @@ public class ChapterIntroUI : MonoBehaviour
                 SceneManager.LoadScene(levelToLoad);
                 LevelSelectorManager.isLevel2 = false;
                 MusicController.musicCanPlay = true;
+                startMessage.SetActive(false);
                 canStart = false;
+            }
+        }
+        else if (LevelSelectorManager.isLevel3)
+        {
+            MusicController.musicCanPlay = false;
+            chapterTitle.text = "Chapter 3";
+            chapterName.text = "ブルーファウンテン団体\n" + "The Blue Fountain Organization";
+            StartCoroutine(activeStart());
+            if (Input.GetKeyDown("space") && LevelSelectorManager.isLevel3 && canStart)
+            {
+                sfxMan.playerStart.Play();
+                levelToLoad = LevelSelectorManager.levelID;
+                SceneManager.LoadScene(levelToLoad);
+                LevelSelectorManager.isLevel3 = false;
+                MusicController.musicCanPlay = true;
+                canStart = false;
+                startMessage.SetActive(false);
+                level3 = true;
+            }
+        }
+        else if (LevelSelectorManager.isLevelFinal)
+        {
+            MusicController.musicCanPlay = false;
+            chapterTitle.text = "Final Chapter";
+            chapterName.text = "道中の始め\n" + "The Beginning of a Journey";
+            StartCoroutine(activeStart());
+            if (Input.GetKeyDown("space") && LevelSelectorManager.isLevelFinal && canStart)
+            {
+                sfxMan.playerStart.Play();
+                levelToLoad = LevelSelectorManager.levelID;
+                SceneManager.LoadScene(levelToLoad);
+                LevelSelectorManager.isLevelFinal = false;
+                MusicController.musicCanPlay = true;
+                canStart = false;
+                startMessage.SetActive(false);
             }
         }
     }

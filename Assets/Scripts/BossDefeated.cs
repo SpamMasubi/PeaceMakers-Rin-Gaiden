@@ -33,13 +33,14 @@ public class BossDefeated : MonoBehaviour
         {
             bossLevelUI.SetActive(false);
             startMessage.SetActive(false);
-            MusicController.musicCanPlay = true;
             isWin = false;
             sfxMan.playerStart.Play();
             SceneManager.LoadSceneAsync(levelToLoad);
             playerWin = false;
             BossHealth.isBossDead = false;
             CommanderHealth.isBossDead = false;
+            TsukimiHealth.isBossDead = false;
+            XelciorHealth.isBossDead = false;
             DialogueManager.isDialogueDone = false;
             canContinue = false;
         }

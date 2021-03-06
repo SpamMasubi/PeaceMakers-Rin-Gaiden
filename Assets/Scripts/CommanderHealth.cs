@@ -47,6 +47,9 @@ public class CommanderHealth : MonoBehaviour
     public static bool isBossDead = false;
     public GameObject winPrize;
 
+    public static bool canUnlock = false;
+    public static bool lvlComplete = false;
+
     void Start()
     {
         stats.Init();
@@ -69,49 +72,49 @@ public class CommanderHealth : MonoBehaviour
             {
                 return;
             }
-
-            anim.Play("CommanderHurt");
-            stats.currentHealth -= damage;
-            flashActive = true;
-            bossDamage = true;
-            flashCounter = flashLength;
-            sfxMan.commanderHurt.Play();
-
-            if (stats.currentHealth <= 750 && !isInvulnerable && !isEnrage)
+            if (!flashActive)
             {
-                isEnrage = true;
-                sfxMan.bossChargeUP.Play();
-                sfxMan.commanderEnrage.Play();
-                GetComponent<Animator>().SetBool("IsEnraged", true);
-                //GetComponent<Animator>().SetBool("Hurt", true);
-            }
+                if (isEnrage)
+                {
+                    GetComponent<Animator>().SetBool("Enrage Hurt", true);
+                }
+                anim.Play("CommanderHurt");
+                stats.currentHealth -= damage;
+                flashActive = true;
+                bossDamage = true;
+                flashCounter = flashLength + 1.5f;
+                sfxMan.commanderHurt.Play();
 
-            /*
-            if (isEnrage)
-            {
-                GetComponent<Animator>().SetBool("Enrage Hurt", true);
-                GetComponent<Animator>().SetBool("Hurt", false);
-            }
-            else
-            {
-                GetComponent<Animator>().SetBool("Hurt", true);
-            }*/
+                if (stats.currentHealth <= 600 && !isInvulnerable && !isEnrage)
+                {
+                    isEnrage = true;
+                    sfxMan.bossChargeUP.Play();
+                    sfxMan.commanderEnrage.Play();
+                    GetComponent<Animator>().SetBool("IsEnraged", true);
+                }
 
-            if (stats.currentHealth <= 0)
-            {
-                isEnrage = false;
-                sfxMan.commanderDeath.Play();
-                Commander.startCommanderBoss = false;
-                GetComponent<Animator>().SetBool("isDefeated", true);
-                GameMaster.CommanderDefeat(this);
-                winPrize.SetActive(true);
-                bossDamage = false;
-                isBossDead = true;
-            }
+                if (stats.currentHealth <= 0)
+                {
+                    isEnrage = false;
+                    sfxMan.commanderDeath.Play();
+                    Commander.startCommanderBoss = false;
+                    GetComponent<Animator>().SetBool("isDefeated", true);
+                    GameMaster.CommanderDefeat(this);
+                    winPrize.SetActive(true);
+                    bossDamage = false;
+                    isBossDead = true;
+                    if (MainMenu.newGame)
+                    {
+                        canUnlock = true;
+                        lvlComplete = true;
+                    }
+                    
+                }
 
-            if (statsInd != null)
-            {
-                statsInd.SetHealth(stats.currentHealth, stats.maxHealth);
+                if (statsInd != null)
+                {
+                    statsInd.SetHealth(stats.currentHealth, stats.maxHealth);
+                }
             }
         }
         else
@@ -122,10 +125,34 @@ public class CommanderHealth : MonoBehaviour
 
     void Update()
     {
-        if (flashActive)
+        if (flashActive && !isBossDead)
         {
 
-            if (flashCounter > flashLength * 0.66f)
+            if (flashCounter > flashLength * 2.64f)
+            {
+                enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 0f);
+            }
+            else if(flashCounter > flashLength * 2.31)
+            {
+                enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 1f);
+            }
+            else if (flashCounter > flashLength * 1.98f)
+            {
+                enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 0f);
+            }
+            else if (flashCounter > flashLength * 1.65f)
+            {
+                enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 1f);
+            }
+            else if (flashCounter > flashLength * 1.32f)
+            {
+                enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 0f);
+            }
+            else if (flashCounter > flashLength * 0.99f)
+            {
+                enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 1f);
+            }
+            else if (flashCounter > flashLength * 0.66f)
             {
                 enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 0f);
             }
@@ -133,7 +160,7 @@ public class CommanderHealth : MonoBehaviour
             {
                 enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 1f);
             }
-            else if (flashCounter > 0f)
+            else if (flashCounter > 0.0f)
             {
                 enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 0f);
             }
@@ -141,7 +168,6 @@ public class CommanderHealth : MonoBehaviour
             {
                 enemySprite.color = new Color(enemySprite.color.r, enemySprite.color.g, enemySprite.color.b, 1f);
                 flashActive = false;
-                bossDamage = false;
             }
             flashCounter -= Time.deltaTime;
         }

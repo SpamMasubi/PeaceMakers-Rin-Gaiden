@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class LevelSelectorManager : MonoBehaviour
 {
@@ -13,6 +14,12 @@ public class LevelSelectorManager : MonoBehaviour
 
     [SerializeField]
     GameObject[] row2;
+
+    [SerializeField]
+    GameObject[] stageLocker;
+
+    [SerializeField]
+    GameObject[] stageIcon;
 
     const int cols = 2;
 
@@ -28,6 +35,7 @@ public class LevelSelectorManager : MonoBehaviour
 
     public static string levelID;
     public string loadLevel;
+    public static bool firstLevelComplete = false;
 
     bool isMoving = false;
     //declare 2D grid
@@ -87,22 +95,110 @@ public class LevelSelectorManager : MonoBehaviour
             moveSelector("down");
         }
 
+        if (MainMenu.newGame)
+        {
+            if (BossHealth.canUnlock)
+            {
+                stageLocker[0].SetActive(false);
+                stageIcon[0].SetActive(true);
+                stageIcon[1].SetActive(false);
+            }
+            else if (CommanderHealth.canUnlock)
+            {
+                stageLocker[0].SetActive(false);
+                stageLocker[1].SetActive(false);
+
+                stageIcon[0].SetActive(true);
+                stageIcon[1].SetActive(true);
+                stageIcon[2].SetActive(false);
+            }
+            else if (TsukimiHealth.canUnlock)
+            {
+                stageLocker[0].SetActive(false);
+                stageLocker[1].SetActive(false);
+                stageLocker[2].SetActive(false);
+
+                stageIcon[0].SetActive(true);
+                stageIcon[1].SetActive(true);
+                stageIcon[2].SetActive(true);
+                stageIcon[3].SetActive(false);
+            }
+        }
+        else
+        {
+            stageLocker[0].SetActive(false);
+            stageLocker[1].SetActive(false);
+            stageLocker[2].SetActive(false);
+
+            stageIcon[0].SetActive(false);
+            stageIcon[1].SetActive(false);
+            stageIcon[2].SetActive(false);
+            stageIcon[3].SetActive(false);
+        }
+
         if (Input.GetKeyDown(KeyCode.Space)) 
         {
            
             levelID = curSlot.GetComponent<LevelSelectItems>().levelID;
 
             sfxMan.selection.Play();
-            if (levelID == "Level 1")
+            if (MainMenu.newGame)
             {
-                sfxMan.banditVoice.Play();
-                SceneManager.LoadScene(loadLevel);
-                isLevel1 = true;
-            }else if(levelID == "Level 2")
+                if (levelID == "Level 1" && !firstLevelComplete)
+                {
+                    sfxMan.banditVoice.Play();
+                    SceneManager.LoadScene(loadLevel);
+                    isLevel1 = true;
+                }
+                else if (levelID == "Level 2" && BossHealth.canUnlock)
+                {
+                    BossHealth.canUnlock = false;
+                    sfxMan.Level2BossVoice.Play();
+                    SceneManager.LoadScene(loadLevel);
+                    isLevel2 = true;
+                }
+                else if (levelID == "Level 3" && CommanderHealth.canUnlock)
+                {
+                    CommanderHealth.canUnlock = false;
+                    sfxMan.Level3BossVoice.Play();
+                    SceneManager.LoadScene(loadLevel);
+                    isLevel3 = true;
+                }
+                else if (levelID == "Level 4" && TsukimiHealth.canUnlock)
+                {
+                    TsukimiHealth.canUnlock = false;
+                    sfxMan.FinalStageVoice.Play();
+                    SceneManager.LoadScene(loadLevel);
+                    isLevelFinal = true;
+                }
+            }
+            else
             {
-                sfxMan.Level2BossVoice.Play();
-                SceneManager.LoadScene(loadLevel);
-                isLevel2 = true;
+                if (levelID == "Level 1")
+                {
+                    sfxMan.banditVoice.Play();
+                    SceneManager.LoadScene(loadLevel);
+                    isLevel1 = true;
+                }
+                else if (levelID == "Level 2")
+                {
+                    sfxMan.Level2BossVoice.Play();
+                    SceneManager.LoadScene(loadLevel);
+                    isLevel2 = true;
+                }
+                else if (levelID == "Level 3")
+                {
+                    CommanderHealth.canUnlock = false;
+                    sfxMan.Level3BossVoice.Play();
+                    SceneManager.LoadScene(loadLevel);
+                    isLevel3 = true;
+                }
+                else if (levelID == "Level 4")
+                {
+                    sfxMan.FinalStageVoice.Play();
+                    SceneManager.LoadScene(loadLevel);
+                    isLevelFinal = true;
+                }
             }
         }
     }

@@ -8,17 +8,15 @@ public class DestroyOverTime : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
 
-        timeToDestroy -= Time.deltaTime;
-        if(timeToDestroy <= 0)
-        {
-            Destroy(gameObject);
-        }
-		
+        StartCoroutine(destroyObject());
 	}
+
+
+    IEnumerator destroyObject()
+    {
+        yield return new WaitForSeconds(timeToDestroy);
+        Destroy(gameObject);
+
+    }
 }

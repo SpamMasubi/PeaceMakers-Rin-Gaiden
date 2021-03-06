@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3851102511552177786}
   - component: {fileID: 3851102511552177784}
   - component: {fileID: 3851102511552177785}
-  m_Layer: 0
+  m_Layer: 20
   m_Name: Effects_42
   m_TagString: MeleeAttack
   m_Icon: {fileID: 0}
@@ -742,4 +742,4 @@ MonoBehaviour:
   waitBetweenAttacks: 1
   castPos: {fileID: 5546209659399294952}
   baseCastDist: 1
-  baseCastDistForward: 0.2
+  baseCastDistForward: 0.5
