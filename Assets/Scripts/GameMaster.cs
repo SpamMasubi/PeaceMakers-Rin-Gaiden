@@ -41,9 +41,10 @@ public class GameMaster : MonoBehaviour
     void Start()
     {
         explosionRef = Resources.Load("EnemyExplode");
-        if (!playGame && MainMenu.newGame)
+        if (!playGame && MainMenu.newGame || GameOverUI.playAgain)
         {
             playGame = true;
+            GameOverUI.playAgain = false;
             _playerLives = maxLives;
             scores = startingScore;
         }
@@ -53,7 +54,6 @@ public class GameMaster : MonoBehaviour
     public Transform spawnPoint;
     public float spawnDelay = 3.0f;
     public float gameOverDelay = 3.0f;
-    private float femaleEnemyRestart = 1.0f;
     public Transform spawnPrefab;
 
     public string sceneToLoad;
@@ -64,12 +64,7 @@ public class GameMaster : MonoBehaviour
 
     public void EndGame()
     {
-        Boss.startBoss = false;
-        Commander.startCommanderBoss = false;
-        Tsukimi.startTsukimiBoss = false;
-        Xelcior.startXelciorBoss = false;
         SceneManager.LoadScene(sceneToLoad);
-
     }
 
     public IEnumerator RespawnPlayer()
@@ -77,7 +72,6 @@ public class GameMaster : MonoBehaviour
         if (!isGameOver)
         {
             yield return new WaitForSeconds(spawnDelay);
-            Player.flashActive = true;
             Transform player = (Transform)Instantiate(playerPrefab, spawnPoint.position, spawnPoint.rotation);
             player.GetComponent<Player>().statsInd = this.statusIndicator;
             Transform clone = (Transform)Instantiate(spawnPrefab, spawnPoint.position, spawnPoint.rotation);
@@ -197,6 +191,28 @@ public class GameMaster : MonoBehaviour
     {
         scores += _tsukimi.getScore;
         Destroy(_tsukimi.gameObject, 6f);
+    }
+
+    public static void HannaDefeat(HannaHealth hanna)
+    {
+        gm._HannaDefeat(hanna);
+    }
+
+    public void _HannaDefeat(HannaHealth _hanna)
+    {
+        scores += _hanna.getScore;
+        Destroy(_hanna.gameObject, 6f);
+    }
+
+    public static void ManaDefeat(ManaHealth mana)
+    {
+        gm._ManaDefeat(mana);
+    }
+
+    public void _ManaDefeat(ManaHealth _mana)
+    {
+        scores += _mana.getScore;
+        Destroy(_mana.gameObject, 6f);
     }
 
     public static void GetPoints(Points point)

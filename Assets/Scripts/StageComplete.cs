@@ -29,9 +29,15 @@ public class StageComplete : MonoBehaviour
             Commander.startCommanderBoss = false;
             Tsukimi.startTsukimiBoss = false;
             Xelcior.startXelciorBoss = false;
+            Mana.startManaBoss = false;
+            Hanna.startHannaBoss = false;
             if (MainMenu.newGame && XelciorHealth.lvlComplete)
             {
                 SceneManager.LoadSceneAsync("Ending Cutscene");
+            }else if (MainMenu.secretStory)
+            {
+                SceneManager.LoadSceneAsync("Main Menu");
+                MainMenu.secretStory = false;
             }
             else
             {

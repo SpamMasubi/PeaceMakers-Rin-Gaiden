@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class BossAttack : MonoBehaviour
 {
-    public int attackDamage = 20;
-    public int enragedAttackDamage = 40;
+    public int attackDamage = 10;
+    public int enragedAttackDamage = 15;
 
     public Vector3 attackOffset;
     public float attackRange = 1f;
@@ -44,7 +44,7 @@ public class BossAttack : MonoBehaviour
         Collider2D colInfo = Physics2D.OverlapCircle(pos, attackRange, attackMask);
         if (colInfo != null)
         {
-            colInfo.GetComponent<Player>().DamagePlayer(attackDamage);
+            colInfo.GetComponent<Player>().DamagePlayer(enragedAttackDamage);
         }
     }
 

@@ -8,10 +8,13 @@ public class LevelLoadStage : MonoBehaviour
 
     public string levelToLoad;
 
+    public static bool checkpoint = false;
+
     // Start is called before the first frame update
     void Start()
     {
         playerInZone = false;
+        checkpoint = false;
     }
 
     // Update is called once per frame
@@ -19,7 +22,13 @@ public class LevelLoadStage : MonoBehaviour
     {
         if(playerInZone)
         {
+            if (MainMenu.secretStory)
+            {
+                HannaHealth.isBossDead = false;
+                Hanna.startHannaBoss = false;
+            }
             SceneManager.LoadSceneAsync(levelToLoad);
+            checkpoint = true;
             playerInZone = false;
         }
     }
@@ -29,6 +38,7 @@ public class LevelLoadStage : MonoBehaviour
         Player _player = other.GetComponent<Collider2D>().GetComponent<Player>();
         if (_player != null)
         {
+            checkpoint = true;
             playerInZone = true;
         }
     }

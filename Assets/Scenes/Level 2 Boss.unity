@@ -13847,9 +13847,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f19869af58c534a9b727029d679580, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackDamage: 20
-  enragedAttackDamage: 40
-  attackOffset: {x: -1.57, y: 0, z: 0}
+  attackDamage: 10
+  enragedAttackDamage: 15
+  attackOffset: {x: -1.95, y: 0, z: 0}
   attackRange: 1.38
   attackMask:
     serializedVersion: 2

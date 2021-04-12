@@ -9,7 +9,10 @@ public class DialogueTrigger : MonoBehaviour
 
     public void Update()
     {
-        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone || TsukimiHealth.isBossDead && !DialogueManager.isDialogueDone || XelciorHealth.isBossDead && !DialogueManager.isDialogueDone || IntroDialogueStart.playerInTrigger && !DialogueManager.isDialogueDone)
+        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone || 
+            TsukimiHealth.isBossDead && !DialogueManager.isDialogueDone || XelciorHealth.isBossDead && !DialogueManager.isDialogueDone ||
+            HannaHealth.isBossDead && !DialogueManager.isDialogueDone || ManaHealth.isBossDead && !DialogueManager.isDialogueDone 
+            || IntroDialogueStart.playerInTrigger && !DialogueManager.isDialogueDone)
         {
             if (Input.GetKeyDown("space"))
             {
@@ -37,7 +40,10 @@ public class DialogueTrigger : MonoBehaviour
     }
     public void FixedUpdate()
     {
-        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone || TsukimiHealth.isBossDead && !DialogueManager.isDialogueDone || XelciorHealth.isBossDead && !DialogueManager.isDialogueDone || IntroDialogueStart.playerInTrigger && !DialogueManager.isDialogueDone)
+        if (BossHealth.isBossDead && !DialogueManager.isDialogueDone || CommanderHealth.isBossDead && !DialogueManager.isDialogueDone || 
+            TsukimiHealth.isBossDead && !DialogueManager.isDialogueDone || XelciorHealth.isBossDead && !DialogueManager.isDialogueDone || 
+            HannaHealth.isBossDead && !DialogueManager.isDialogueDone || ManaHealth.isBossDead && !DialogueManager.isDialogueDone || 
+            IntroDialogueStart.playerInTrigger && !DialogueManager.isDialogueDone)
         {
             TriggerDialogue();
         }

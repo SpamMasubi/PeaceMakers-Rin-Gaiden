@@ -41,7 +41,6 @@ public class ChapterIntroUI : MonoBehaviour
                 sfxMan.playerStart.Play();
                 levelToLoad = LevelSelectorManager.levelID;
                 SceneManager.LoadScene(levelToLoad);
-                LevelSelectorManager.isLevel1 = false;
                 MusicController.musicCanPlay = true;
                 startMessage.SetActive(false);
                 canStart = false;
@@ -58,7 +57,6 @@ public class ChapterIntroUI : MonoBehaviour
                 sfxMan.playerStart.Play();
                 levelToLoad = LevelSelectorManager.levelID;
                 SceneManager.LoadScene(levelToLoad);
-                LevelSelectorManager.isLevel2 = false;
                 MusicController.musicCanPlay = true;
                 startMessage.SetActive(false);
                 canStart = false;
@@ -75,7 +73,6 @@ public class ChapterIntroUI : MonoBehaviour
                 sfxMan.playerStart.Play();
                 levelToLoad = LevelSelectorManager.levelID;
                 SceneManager.LoadScene(levelToLoad);
-                LevelSelectorManager.isLevel3 = false;
                 MusicController.musicCanPlay = true;
                 canStart = false;
                 startMessage.SetActive(false);
@@ -93,7 +90,21 @@ public class ChapterIntroUI : MonoBehaviour
                 sfxMan.playerStart.Play();
                 levelToLoad = LevelSelectorManager.levelID;
                 SceneManager.LoadScene(levelToLoad);
-                LevelSelectorManager.isLevelFinal = false;
+                MusicController.musicCanPlay = true;
+                canStart = false;
+                startMessage.SetActive(false);
+            }
+        }
+        else if (MainMenu.secretStory)
+        {
+            MusicController.musicCanPlay = false;
+            chapterTitle.text = "Secret Story";
+            chapterName.text = "マナとハンナ\n" + "Mana and Hanna";
+            StartCoroutine(activeStart());
+            if (Input.GetKeyDown("space") && MainMenu.secretStory && canStart)
+            {
+                sfxMan.playerStart.Play();
+                SceneManager.LoadScene("Secret Story Level");
                 MusicController.musicCanPlay = true;
                 canStart = false;
                 startMessage.SetActive(false);

@@ -4079,14 +4079,14 @@ MonoBehaviour:
     Key - Pause Menu
 
 
-    Z-Yoyo Attacks
+    Z/N-Yoyo Attacks
 
 
-    X-Regular Attacks
+    X/M-Regular Attacks
 
 
-    Shift + Movement
-    = Run'
+    Shift
+    + Movement = Run'
 --- !u!222 &1599192041
 CanvasRenderer:
   m_ObjectHideFlags: 0

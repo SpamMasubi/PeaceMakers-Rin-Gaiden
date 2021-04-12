@@ -56,6 +56,11 @@ public class WinLevel : MonoBehaviour
             isWin = true;
             sfxMan.playerWin.Play();
             MusicController.musicCanPlay = false;
+            LevelLoadStage.checkpoint = false;
+            LevelSelectorManager.isLevel1 = false;
+            LevelSelectorManager.isLevel2 = false;
+            LevelSelectorManager.isLevel3 = false;
+            LevelSelectorManager.isLevelFinal = false;
         }
     }
 

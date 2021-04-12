@@ -89,6 +89,34 @@ public class DialogueManager : MonoBehaviour
                 nameText.text = "Xelcior: ";
             }
         }
+        else if (HannaHealth.isBossDead)
+        {
+            if (sentences.Count == 24  || sentences.Count == 23 || sentences.Count == 22 || sentences.Count == 20 
+                || sentences.Count == 17 || sentences.Count == 12 || sentences.Count == 11 || sentences.Count == 6 
+                || sentences.Count == 3 || sentences.Count == 2 || sentences.Count == 1)
+            {
+
+                nameText.text = "Rin: ";
+            }
+            else
+            {
+                nameText.text = "Hanna: ";
+            }
+        }
+        else if (ManaHealth.isBossDead)
+        {
+            if (sentences.Count == 19 || sentences.Count == 17 || sentences.Count == 15 || sentences.Count == 14
+                || sentences.Count == 13 || sentences.Count == 11 || sentences.Count == 9 || sentences.Count == 7
+                || sentences.Count == 6 || sentences.Count == 4 || sentences.Count == 1)
+            {
+
+                nameText.text = "Rin: ";
+            }
+            else
+            {
+                nameText.text = "Mana: ";
+            }
+        }
 
 
         if (sentences.Count == 0)

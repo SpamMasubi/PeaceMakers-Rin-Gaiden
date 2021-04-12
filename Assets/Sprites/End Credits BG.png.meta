@@ -20,6 +20,12 @@ TextureImporter:
   - first:
       213: 1526985283649378026
     second: End Credits BG_3
+  - first:
+      213: 2000762552552313568
+    second: End Credits BG_4
+  - first:
+      213: -5839909187062083072
+    second: End Credits BG_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -200,7 +206,7 @@ TextureImporter:
         width: 120
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -208,6 +214,48 @@ TextureImporter:
       bones: []
       spriteID: ae69b217601f03510800000000000000
       internalID: 1526985283649378026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End Credits BG_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 224
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2d8c8e0f224cb10800000000000000
+      internalID: 2000762552552313568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End Credits BG_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 148
+        width: 208
+        height: 168
+      alignment: 9
+      pivot: {x: 0.53455794, y: 0.56222486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002df98198974fea0800000000000000
+      internalID: -5839909187062083072
       vertices: []
       indices: 
       edges: []

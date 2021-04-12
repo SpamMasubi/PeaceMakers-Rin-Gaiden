@@ -55,6 +55,8 @@ public class PauseMenu : MonoBehaviour
         Commander.startCommanderBoss = false;
         Tsukimi.startTsukimiBoss = false;
         Xelcior.startXelciorBoss = false;
+        Mana.startManaBoss = false;
+        Hanna.startHannaBoss = false;
         DialogueManager.isDialogueDone = false;
         MusicController.musicCanPlay = true;
         MusicController.musicPause = false;
@@ -85,6 +87,8 @@ public class PauseMenu : MonoBehaviour
         Commander.startCommanderBoss = false;
         Tsukimi.startTsukimiBoss = false;
         Xelcior.startXelciorBoss = false;
+        Mana.startManaBoss = false;
+        Hanna.startHannaBoss = false;
         DialogueManager.isDialogueDone = false;
         MusicController.musicCanPlay = true;
         MusicController.musicPause = false;

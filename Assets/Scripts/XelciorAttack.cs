@@ -45,7 +45,7 @@ public class XelciorAttack : MonoBehaviour
         Collider2D colInfo = Physics2D.OverlapCircle(pos, attackRange, attackMask);
         if (colInfo != null)
         {
-            colInfo.GetComponent<Player>().DamagePlayer(attackDamage);
+            colInfo.GetComponent<Player>().DamagePlayer(enragedAttackDamage);
         }
     }
 

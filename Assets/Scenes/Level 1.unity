@@ -8358,11 +8358,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1281355912586891088, guid: c9ca9cf9b8d796f49ac93796d5a9025e,
-        type: 3}
-      propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 1.1875
-      objectReference: {fileID: 0}
     - target: {fileID: 1281355912586891100, guid: c9ca9cf9b8d796f49ac93796d5a9025e,
         type: 3}
       propertyPath: statsInd
@@ -8372,11 +8367,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Rin
-      objectReference: {fileID: 0}
-    - target: {fileID: 6205145962486367706, guid: c9ca9cf9b8d796f49ac93796d5a9025e,
-        type: 3}
-      propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 0.8125
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9ca9cf9b8d796f49ac93796d5a9025e, type: 3}

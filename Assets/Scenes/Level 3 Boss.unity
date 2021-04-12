@@ -1103,7 +1103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackDamage: 10
-  enragedAttackDamage: 30
+  enragedAttackDamage: 15
   attackOffset: {x: -3, y: 0, z: 0}
   attackRange: 1.2
   attackMask:

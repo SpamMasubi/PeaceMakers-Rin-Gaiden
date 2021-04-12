@@ -128,6 +128,24 @@ public class PlayerController2D : MonoBehaviour
                                 xelcior.GetComponent<XelciorHealth>().TakeDamage(damage);
                             }
                         }
+                        else if (Hanna.startHannaBoss)
+                        {
+                            Collider2D[] hannaArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, bossMask);
+                            foreach (Collider2D hanna in hannaArray)
+                            {
+
+                                hanna.GetComponent<HannaHealth>().TakeDamage(damage);
+                            }
+                        }
+                        else if (Mana.startManaBoss)
+                        {
+                            Collider2D[] manaArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, bossMask);
+                            foreach (Collider2D mana in manaArray)
+                            {
+
+                                mana.GetComponent<ManaHealth>().TakeDamage(damage);
+                            }
+                        }
                         else
                         {
                             Collider2D[] enemyArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, enemyMask);
@@ -201,6 +219,24 @@ public class PlayerController2D : MonoBehaviour
                                 xelcior.GetComponent<XelciorHealth>().TakeDamage(damage);
                             }
                         }
+                        else if (Hanna.startHannaBoss)
+                        {
+                            Collider2D[] hannaArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, bossMask);
+                            foreach (Collider2D hanna in hannaArray)
+                            {
+
+                                hanna.GetComponent<HannaHealth>().TakeDamage(damage);
+                            }
+                        }
+                        else if (Mana.startManaBoss)
+                        {
+                            Collider2D[] manaArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, bossMask);
+                            foreach (Collider2D mana in manaArray)
+                            {
+
+                                mana.GetComponent<ManaHealth>().TakeDamage(damage);
+                            }
+                        }
                         else
                         {
                             Collider2D[] enemyArray = Physics2D.OverlapCircleAll(attackEffect.position, attackRange, enemyMask);
@@ -268,6 +304,24 @@ public class PlayerController2D : MonoBehaviour
                                 xelcior.GetComponent<XelciorHealth>().TakeDamage(yoyodamage);
                             }
                         }
+                        else if (Hanna.startHannaBoss)
+                        {
+                            Collider2D[] hannaArrayYoyo = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, bossMaskYoyo);
+                            foreach (Collider2D hanna in hannaArrayYoyo)
+                            {
+
+                                hanna.GetComponent<HannaHealth>().TakeDamage(yoyodamage);
+                            }
+                        }
+                        else if (Mana.startManaBoss)
+                        {
+                            Collider2D[] manaArrayYoyo = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, bossMaskYoyo);
+                            foreach (Collider2D mana in manaArrayYoyo)
+                            {
+
+                                mana.GetComponent<ManaHealth>().TakeDamage(yoyodamage);
+                            }
+                        }
                         else
                         {
                             Collider2D[] enemyArrayYoyo = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, enemyMaskYoyo);
@@ -325,6 +379,24 @@ public class PlayerController2D : MonoBehaviour
                                 xelcior.GetComponent<XelciorHealth>().TakeDamage(yoyodamage);
                             }
                         }
+                        else if (Hanna.startHannaBoss)
+                        {
+                            Collider2D[] hannaArrayYoyo = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, bossMaskYoyo);
+                            foreach (Collider2D hanna in hannaArrayYoyo)
+                            {
+
+                                hanna.GetComponent<HannaHealth>().TakeDamage(yoyodamage);
+                            }
+                        }
+                        else if (Mana.startManaBoss)
+                        {
+                            Collider2D[] manaArrayYoyo = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, bossMaskYoyo);
+                            foreach (Collider2D mana in manaArrayYoyo)
+                            {
+
+                                mana.GetComponent<ManaHealth>().TakeDamage(yoyodamage);
+                            }
+                        }
                         else
                         {
                             Collider2D[] enemyArrayYoyo = Physics2D.OverlapCircleAll(yoyoAttackPoint.position, YoyoattackRange, enemyMaskYoyo);
@@ -355,8 +427,6 @@ public class PlayerController2D : MonoBehaviour
     {
         if (!WinLevel.isWin && !BossDefeated.isWin)
         {
-            isCrouching = false;
-            running = false;
             if ((Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Ground"))) ||
                     (Physics2D.Linecast(transform.position, groundCheckL.position, 1 << LayerMask.NameToLayer("Ground"))) ||
                     (Physics2D.Linecast(transform.position, groundCheckR.position, 1 << LayerMask.NameToLayer("Ground"))) ||
@@ -382,12 +452,18 @@ public class PlayerController2D : MonoBehaviour
                 if (Input.GetKey("d") || Input.GetKey("right"))
                 {
                     rb2d.velocity = new Vector2(walkSpeed, rb2d.velocity.y);
-
-                    if (isGrounded && !isAttacking)
+                    if (isGrounded && !isAttacking && running)
+                    {
+                        runningSpeed = walkSpeed * newSpeed;
+                        rb2d.velocity = new Vector2(runningSpeed, rb2d.velocity.y);
+                        animator.Play("PlayerRun");
+                        running = false;
+                    }
+                    else if(isGrounded && !isAttacking)
                     {
                         animator.Play("PlayerWalk");
                     }
-                    if (Input.GetKey(KeyCode.LeftShift))
+                    if (Input.GetKey(KeyCode.LeftShift) && !isGrounded || Input.GetKey(KeyCode.RightShift) && !isGrounded)
                     {
                         runningSpeed = walkSpeed * newSpeed;
                         rb2d.velocity = new Vector2(runningSpeed, rb2d.velocity.y);
@@ -401,26 +477,35 @@ public class PlayerController2D : MonoBehaviour
                 else if (Input.GetKey("a") || Input.GetKey("left"))
                 {
                     rb2d.velocity = new Vector2(-walkSpeed, rb2d.velocity.y);
-
-                    if (isGrounded && !isAttacking)
+                    if (isGrounded && !isAttacking && running)
+                    {
+                        runningSpeed = walkSpeed * newSpeed;
+                        rb2d.velocity = new Vector2(-runningSpeed, rb2d.velocity.y);
+                        animator.Play("PlayerRun");
+                        running = false;
+                    
+                    }
+                    else if(isGrounded && !isAttacking)
                     {
                         animator.Play("PlayerWalk");
-                    }
-
-                    if (Input.GetKey(KeyCode.LeftShift))
+                    }    
+                    if (Input.GetKey(KeyCode.LeftShift) && !isGrounded || Input.GetKey(KeyCode.RightShift) && !isGrounded)
                     {
                         runningSpeed = walkSpeed * newSpeed;
                         rb2d.velocity = new Vector2(-runningSpeed, rb2d.velocity.y);
 
                     }
+
                     //spriteRender.flipX = true;
                     transform.localScale = new Vector3(-1, 1, 1);
                 }
                 else if (isGrounded)
-                {
+                {   
+                    running = false;
                     if (!isAttacking)
                     {
                         animator.Play("PlayerIdle");
+                        
                     }
                     rb2d.velocity = new Vector2(0, rb2d.velocity.y);
                 }
@@ -432,51 +517,17 @@ public class PlayerController2D : MonoBehaviour
                     sfxMan.playerJump.Play();
                 }
 
-                if (Input.GetKey("up") && isGrounded && walkSpeed <= runningSpeed || Input.GetKey("w") && isGrounded && walkSpeed <= runningSpeed)
-                {
-
-                    rb2d.velocity = new Vector2(rb2d.velocity.x, jumpSpeed);
-                    animator.Play("PlayerJump");
-                    sfxMan.playerJump.Play();
-
-                }
                 /*
                 if (Input.GetKey("down") && isGrounded || Input.GetKey("s") && isGrounded)
                 {
                     isCrouching = true;
                     rb2d.velocity = Vector2.zero;
                     animator.Play("PlayerCrouch");
-                }
-
-                if (Input.GetKey("a") && Input.GetKey(KeyCode.LeftShift) || Input.GetKey("left") && Input.GetKey(KeyCode.LeftShift))
+                }*/
+                if (Input.GetKey(KeyCode.LeftShift) && isGrounded || Input.GetKey(KeyCode.RightShift) && isGrounded)
                 {
-                    runningSpeed = walkSpeed * newSpeed;
-                    rb2d.velocity = new Vector2(-runningSpeed, rb2d.velocity.y);
-
-                    if (isGrounded && !isAttacking)
-                    {
-                        isCrouching = false;
-                        running = true;
-                        //animator.SetBool("isRunning", true);
-                    }
-                    //spriteRender.flipX = true;
-                    transform.localScale = new Vector3(-1, 1, 1);
+                    running = true;
                 }
-                else if (Input.GetKey("d") && Input.GetKey(KeyCode.LeftShift) || Input.GetKey("right") && Input.GetKey(KeyCode.LeftShift))
-                {
-                    runningSpeed = walkSpeed * newSpeed;
-                    rb2d.velocity = new Vector2(runningSpeed, rb2d.velocity.y);
-
-                    if (isGrounded && !isAttacking)
-                    {
-                        isCrouching = false;
-                        running = true;
-                        animator.SetBool("isRunning", true);
-                    }
-                    spriteRender.flipX = true;
-                    transform.localScale = new Vector3(1, 1, 1);
-                }
-                */
             }
             else
             {

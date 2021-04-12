@@ -13,6 +13,7 @@ public class MainMenu : MonoBehaviour
     public string loadScene;
 
     public static bool newGame = false;
+    public static bool secretStory = false;
 
     void Start()
     {
@@ -52,7 +53,8 @@ public class MainMenu : MonoBehaviour
         Debug.Log("Let's play");
         sfxMan.selection.Play();
         sfxMan.beginGame.Play();
-        //SceneManager.LoadScene(loadScene);
+        secretStory = true;
+        SceneManager.LoadScene("Chapter Intro");
     }
 
     public void QuitGame()

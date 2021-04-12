@@ -41,6 +41,8 @@ public class BossDefeated : MonoBehaviour
             CommanderHealth.isBossDead = false;
             TsukimiHealth.isBossDead = false;
             XelciorHealth.isBossDead = false;
+            ManaHealth.isBossDead = false;
+            HannaHealth.isBossDead = false;
             DialogueManager.isDialogueDone = false;
             canContinue = false;
         }

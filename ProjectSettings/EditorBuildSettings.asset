@@ -65,4 +65,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/End Credits.unity
     guid: 8a3f0efac53903148ad693e1f417ecf9
+  - enabled: 1
+    path: Assets/Scenes/Secret Story Level.unity
+    guid: 032604fd5f5f11c4d8a064179f5e4a67
+  - enabled: 1
+    path: Assets/Scenes/Secret Story Boss.unity
+    guid: 7dd5a2bcb180b4544854470dd77ad07a
+  - enabled: 1
+    path: Assets/Scenes/Secret Story Boss 2.unity
+    guid: 1e498cf75abdb2c4ebf4cc39ae2d54c0
   m_configObjects: {}

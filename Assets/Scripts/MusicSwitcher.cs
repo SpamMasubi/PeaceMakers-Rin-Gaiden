@@ -14,12 +14,12 @@ public class MusicSwitcher : MonoBehaviour {
 
         theMC = FindObjectOfType<MusicController>();
 
-        if (switchOnStart)
+        if (switchOnStart || GameOverUI.returnToCheckPoint)
         {
 
             theMC.SwitchTrack(newTrack);
             gameObject.SetActive(false);
-
+            GameOverUI.returnToCheckPoint = false;
         }
 	}
 	

@@ -1258,7 +1258,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17f387916e15c5d43a443c6a17e417f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newTrack: 0
+  newTrack: 8
   switchOnStart: 0
 --- !u!4 &130076459
 Transform:

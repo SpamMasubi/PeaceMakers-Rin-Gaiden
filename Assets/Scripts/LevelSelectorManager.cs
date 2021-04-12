@@ -97,13 +97,14 @@ public class LevelSelectorManager : MonoBehaviour
 
         if (MainMenu.newGame)
         {
-            if (BossHealth.canUnlock)
+            if (BossHealth.canUnlock && !CommanderHealth.canUnlock)
             {
                 stageLocker[0].SetActive(false);
+
                 stageIcon[0].SetActive(true);
                 stageIcon[1].SetActive(false);
             }
-            else if (CommanderHealth.canUnlock)
+            else if (CommanderHealth.canUnlock && !TsukimiHealth.canUnlock)
             {
                 stageLocker[0].SetActive(false);
                 stageLocker[1].SetActive(false);
@@ -112,7 +113,7 @@ public class LevelSelectorManager : MonoBehaviour
                 stageIcon[1].SetActive(true);
                 stageIcon[2].SetActive(false);
             }
-            else if (TsukimiHealth.canUnlock)
+            else if (TsukimiHealth.canUnlock && !XelciorHealth.lvlComplete)
             {
                 stageLocker[0].SetActive(false);
                 stageLocker[1].SetActive(false);
@@ -150,21 +151,21 @@ public class LevelSelectorManager : MonoBehaviour
                     SceneManager.LoadScene(loadLevel);
                     isLevel1 = true;
                 }
-                else if (levelID == "Level 2" && BossHealth.canUnlock)
+                else if (levelID == "Level 2" && BossHealth.canUnlock && !CommanderHealth.canUnlock)
                 {
                     BossHealth.canUnlock = false;
                     sfxMan.Level2BossVoice.Play();
                     SceneManager.LoadScene(loadLevel);
                     isLevel2 = true;
                 }
-                else if (levelID == "Level 3" && CommanderHealth.canUnlock)
+                else if (levelID == "Level 3" && CommanderHealth.canUnlock && !TsukimiHealth.canUnlock)
                 {
                     CommanderHealth.canUnlock = false;
                     sfxMan.Level3BossVoice.Play();
                     SceneManager.LoadScene(loadLevel);
                     isLevel3 = true;
                 }
-                else if (levelID == "Level 4" && TsukimiHealth.canUnlock)
+                else if (levelID == "Level 4" && TsukimiHealth.canUnlock && !XelciorHealth.lvlComplete)
                 {
                     TsukimiHealth.canUnlock = false;
                     sfxMan.FinalStageVoice.Play();

@@ -55,6 +55,19 @@ public class SFXManager : MonoBehaviour {
     public AudioSource finalBossHurt;
     public AudioSource finalBossDefeat;
 
+    public AudioSource hannaDeath;
+    public AudioSource hannaHurt;
+    public AudioSource hannaAttack;
+    public AudioSource hannaEnrage;
+    public AudioSource hannaAttackEnraged;
+
+    public AudioSource manaDeath;
+    public AudioSource manaHurt;
+    public AudioSource manaAttack;
+    public AudioSource manaEnrage;
+    public AudioSource manaAttackEnraged;
+    public AudioSource manaSpecial;
+
     public AudioSource Level2BossVoice;
     public AudioSource Level3BossVoice;
     public AudioSource banditVoice;
