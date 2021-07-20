@@ -1,6 +1,8 @@
 # PeaceMakers-Rin-Gaiden
 Unity 2D Platforming Side-scroller
 
+***This was a solo project***
+
 Full Game for Mac and Windows Download Link: 
 https://drive.google.com/drive/folders/1FgN4V86KTN3jJu-_Juc5fpwK7J4k9uLG
 
