@@ -6,6 +6,9 @@ Unity 2D Platforming Side-scroller
 Full Game for Mac and Windows Download Link: 
 https://drive.google.com/drive/folders/1FgN4V86KTN3jJu-_Juc5fpwK7J4k9uLG
 
+Tutorial used to prototype the game:
+https://youtube.com/playlist?list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c
+
 Plot: In 202X, a Nuclear War destroyed all of earth's civilization. 
 The earth became a barren wasteland as the seas dried up and the ground became sandy.
 Yet, humanity still thrives on. After the defeat of the Ninjutsu King, the peacemaking fighters, 
