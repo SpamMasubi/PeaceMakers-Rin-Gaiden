@@ -522,13 +522,13 @@ MonoBehaviour:
   YoyoattackRange: 1.2
   bossMask:
     serializedVersion: 2
-    m_Bits: 65536
+    m_Bits: 1024
   enemyMask:
     serializedVersion: 2
     m_Bits: 512
   bossMaskYoyo:
     serializedVersion: 2
-    m_Bits: 65536
+    m_Bits: 1024
   enemyMaskYoyo:
     serializedVersion: 2
     m_Bits: 512
@@ -593,7 +593,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1.2
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 387777b70e290c54fbc2a2b00ddb5549, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1

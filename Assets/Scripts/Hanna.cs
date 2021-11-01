@@ -78,4 +78,13 @@ public class Hanna : MonoBehaviour
             nextTimeToSearch = Time.time + 0.2f;
         }
     }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        Player _player = collision.collider.GetComponent<Player>();
+        if (_player != null && !HannaHealth.isBossDead)
+        {
+            _player.DamagePlayer(1);
+        }
+    }
 }

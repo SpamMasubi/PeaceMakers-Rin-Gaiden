@@ -345,7 +345,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -359793467
-  m_SortingLayer: 6
+  m_SortingLayer: 9
   m_SortingOrder: 1
   m_Sprite: {fileID: -5965069644269701207, guid: 1de96d6dd800e2b448c4ffd42d70770d,
     type: 3}
@@ -535,7 +535,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 0322ca3c1d0579543b8e7bc36bdb6f63, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -571,7 +571,6 @@ MonoBehaviour:
   castPos: {fileID: 8757747659256837463}
   baseCastDist: 1
   baseCastDistForward: 0.2
-  waitUntilFinish: 5
 --- !u!1 &8757747659256837456
 GameObject:
   m_ObjectHideFlags: 0

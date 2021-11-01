@@ -41,7 +41,6 @@ public class Player : MonoBehaviour
     float delay = 0.4f;
 
     private Rigidbody2D rb2D;
-    private float thrust = 500.0f;
 
     void Start()
     {
@@ -115,6 +114,15 @@ public class Player : MonoBehaviour
             {
                 playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 1f);
                 flashActive = false;
+                if (Boss.startBoss || Commander.startCommanderBoss || Tsukimi.startTsukimiBoss
+                || Xelcior.startXelciorBoss || Hanna.startHannaBoss || Mana.startManaBoss)
+                {
+                    Physics2D.IgnoreLayerCollision(13, 10, false);
+                }
+                else
+                {
+                    Physics2D.IgnoreLayerCollision(13, 9, false);
+                }
             }
 
             flashCounter -= Time.deltaTime;
@@ -124,7 +132,12 @@ public class Player : MonoBehaviour
     {
         if (!flashActive)
         {
-            rb2D.AddForce(-transform.right * thrust);
+            if (Boss.startBoss || Commander.startCommanderBoss || Tsukimi.startTsukimiBoss 
+                || Xelcior.startXelciorBoss || Hanna.startHannaBoss || Mana.startManaBoss) {
+                Physics2D.IgnoreLayerCollision(13, 10, true);
+            } else {
+                Physics2D.IgnoreLayerCollision(13, 9, true);
+            }
             rb2D.velocity = Vector2.zero;
             anim.SetTrigger("playerHurt");
             stats.curHealth -= damage;
@@ -137,6 +150,15 @@ public class Player : MonoBehaviour
                 GameMaster.playGame = false;
                 sfxMan.playerDead.Play();
                 GameMaster.KillPlayer(this);
+                if (Boss.startBoss || Commander.startCommanderBoss || Tsukimi.startTsukimiBoss
+                || Xelcior.startXelciorBoss || Hanna.startHannaBoss || Mana.startManaBoss)
+                {
+                    Physics2D.IgnoreLayerCollision(13, 10, false);
+                }
+                else
+                {
+                    Physics2D.IgnoreLayerCollision(13, 9, false);
+                }
             }
             statsInd.SetHealth(stats.curHealth, stats.maxHealth);
         }

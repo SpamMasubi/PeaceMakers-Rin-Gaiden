@@ -18,13 +18,13 @@ TagManager:
   - 
   - Ground
   - Enemy
-  - Weapon
+  - Boss
   - Terrain
   - Action
   - Player
   - Projectiles
   - TriggerZone
-  - Boss
+  - 
   - Death Effect
   - BossAttacks
   - PlayerAttack

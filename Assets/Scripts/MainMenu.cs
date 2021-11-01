@@ -11,17 +11,25 @@ public class MainMenu : MonoBehaviour
     public Button[] extraButtons;
 
     public string loadScene;
+    public GameObject WebGLMenu;
+    public GameObject StandAloneMenu;
 
     public static bool newGame = false;
     public static bool secretStory = false;
 
     void Start()
     {
-        sfxMan = FindObjectOfType<SFXManager>(); ;
+        sfxMan = FindObjectOfType<SFXManager>();
+
+        #if UNITY_WEBGL
+        WebGLMenu.SetActive(true);
+        StandAloneMenu.SetActive(false);
+        #endif
     }
 
     void FixedUpdate()
     {
+        
         if (GameMaster.storyComplete)
         {
             extraButtons[0].gameObject.SetActive(true);

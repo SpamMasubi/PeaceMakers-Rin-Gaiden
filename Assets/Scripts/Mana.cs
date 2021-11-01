@@ -78,4 +78,13 @@ public class Mana : MonoBehaviour
             nextTimeToSearch = Time.time + 0.2f;
         }
     }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        Player _player = collision.collider.GetComponent<Player>();
+        if (_player != null && !ManaHealth.isBossDead)
+        {
+            _player.DamagePlayer(1);
+        }
+    }
 }
