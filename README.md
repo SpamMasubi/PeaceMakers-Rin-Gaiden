@@ -3,6 +3,8 @@ Unity 2D Platforming Side-scroller
 
 ***This was a solo project***
 
+Full Game to play on browser: https://masubi97.itch.io/peacemakers-rin-gaiden
+
 Full Game for Mac and Windows Download Link: 
 https://drive.google.com/drive/folders/1FgN4V86KTN3jJu-_Juc5fpwK7J4k9uLG
 
